@@ -1,0 +1,15 @@
+<?xml version = "1.0" encoding = "ISO-8859-1"?>
+<aiml version="2" encoding="ISO-8859-1">
+    <!--pmb_ukdw.xml-->
+
+    <category>
+        <pattern>pmb</pattern>
+            <template>
+                <learn>pendaftaran_umum.aiml</learn>
+                <learn>cara_pendaftaran.aiml</learn>
+                <learn>beasiswa_ukdw.aiml</learn>
+                <learn>biaya_dpfp.aiml</learn>
+                <learn>lokasi_kampus.aiml</learn>
+            </template>
+    </category>
+</aiml>
