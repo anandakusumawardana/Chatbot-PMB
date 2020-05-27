@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding = "ISO-8859-1"?>
+<aiml version="2" encoding="ISO-8859-1">
+    <!-- bentuk_pendaftaran.aiml -->
+    <category>
+        <pattern>BAGAIMANA BENTUK *</pattern>
+            <template>
+                Bentuk pendaftaran mahasiswa baru di UKDW dapat dilakukan melalui pendaftaran online
+                dan pendaftaran di sekolah yang bekerja sama dengan UKDW <star/>
+            </template>
+    </category>
+</aiml>

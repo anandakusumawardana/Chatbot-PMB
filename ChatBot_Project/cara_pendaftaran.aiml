@@ -1,0 +1,32 @@
+<?xml version = "1.0" encoding = "ISO-8859-1"?>
+<aiml version="2" encoding="ISO-8859-1">
+    <!-- cara_pendaftaran.aiml -->
+
+    <category>
+        <pattern>BAGAIMANA *</pattern>
+            <template>
+                1. Buka situs berikut yaitu pmb.ukdw.ac.id &#xA;
+                2. Jika Anda sudah memiliki nomor pendaftaran, silahkan login pada form di atas dengan menggunakan nomor pendaftaran Penerimaan Mahasiswa Baru Online UKDW; (jika berhasil ke langkah 6).
+                3. Jika Anda belum memiliki nomor pendaftaran silahkan daftarkan diri Anda. (langkah 4).
+                4. Daftarkan diri Anda melalui menu “daftar” untuk mendapatkan nomor pendaftaran Pendaftaran Online Mahasiswa Baru UKDW, yang akan Anda gunakan untuk login. Isilah form pendaftaran dengan benar. Setelah Proses Pendaftaran berhasil, catatlah nomor pendaftaran Anda.
+                5. Anda dapat mengirimkan Nomor Pendaftaran dan password ke email pribadi Anda, cek email Anda untuk mendapatkan informasi konfirmasi pendaftaran.
+                6. Setelah berhasil login, silahkan mengisi data pendaftaran calon mahasiswa baru UKDW dengan baik.
+                7. Jangan lupa melakukan logout, setelah selesai melakukan pengisian data pendaftaran.
+                8. Anda dapat login kembali nanti, jika ingin melakukan perubahan atau melengkapi data pendaftaran Anda <star/>
+            </template>
+    </category>
+
+    <category>
+        <pattern>CARA *</pattern>
+            <template>
+                1. Buka situs berikut yaitu pmb.ukdw.ac.id
+                2. Jika Anda sudah memiliki nomor pendaftaran, silahkan login pada form di atas dengan menggunakan nomor pendaftaran Penerimaan Mahasiswa Baru Online UKDW; (jika berhasil ke langkah 6).
+                3. Jika Anda belum memiliki nomor pendaftaran silahkan daftarkan diri Anda. (langkah 4).
+                4. Daftarkan diri Anda melalui menu “daftar” untuk mendapatkan nomor pendaftaran Pendaftaran Online Mahasiswa Baru UKDW, yang akan Anda gunakan untuk login. Isilah form pendaftaran dengan benar. Setelah Proses Pendaftaran berhasil, catatlah nomor pendaftaran Anda.
+                5. Anda dapat mengirimkan Nomor Pendaftaran dan password ke email pribadi Anda, cek email Anda untuk mendapatkan informasi konfirmasi pendaftaran. \n
+                6. Setelah berhasil login, silahkan mengisi data pendaftaran calon mahasiswa baru UKDW dengan baik.
+                7. Jangan lupa melakukan logout, setelah selesai melakukan pengisian data pendaftaran.
+                8. Anda dapat login kembali nanti, jika ingin melakukan perubahan atau melengkapi data pendaftaran Anda <star/>
+            </template>
+    </category>
+</aiml>

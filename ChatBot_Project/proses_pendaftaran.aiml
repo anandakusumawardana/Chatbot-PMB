@@ -1,0 +1,15 @@
+<?xml version = "1.0" encoding = "ISO-8859-1"?>
+<aiml version="2" encoding="ISO-8859-1">
+    <!-- proses_pendaftaran.aiml -->
+
+     <category>
+        <pattern>PROSES *</pattern>
+            <template>
+                Berikut proses pendaftaran di sekolah yang bekerja sama dengan UKDW
+                 1. Mengambil Formulir Pendaftaran di sekolah-sekolah yang bekerja sama dengan UKDW dan membayar kepada sekolah sebesar Rp 200.000,-.
+                 2. Mengisi Formulir Pendaftaran
+                 3. Menyerahkan Formulir Pendaftaran dilampiri dengan perlengkapan syarat pendaftaran ke sekolah, lalu sekolah menyerahkan atau mengirimkannya via pos secara kolektif dengan dilampiri bukti kwitansi pembayaran asli pembelian formulir ke Kantor Admisi dan Promosi UKDW, Jalan dokter Wahidin Sudirohusodo no. 5-25, Yogyakarta 55224. <star/>
+            </template>
+    </category>
+
+</aiml>

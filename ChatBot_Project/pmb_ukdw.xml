@@ -2,7 +2,7 @@
 <aiml version="2" encoding="ISO-8859-1">
     <!--pmb_ukdw.xml-->
     <category>
-        <pattern>pmb</pattern>
+        <pattern>PMB</pattern>
             <template>
                 <learn>bentuk_pendaftaran.aiml</learn>
                 <learn>cara_pendaftaran.aiml</learn>
