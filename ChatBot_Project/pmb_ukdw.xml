@@ -1,15 +1,37 @@
 <?xml version = "1.0" encoding = "ISO-8859-1"?>
 <aiml version="2" encoding="ISO-8859-1">
     <!--pmb_ukdw.xml-->
-
     <category>
         <pattern>pmb</pattern>
             <template>
-                <learn>pendaftaran_umum.aiml</learn>
+                <learn>bentuk_pendaftaran.aiml</learn>
                 <learn>cara_pendaftaran.aiml</learn>
-                <learn>beasiswa_ukdw.aiml</learn>
-                <learn>biaya_dpfp.aiml</learn>
-                <learn>lokasi_kampus.aiml</learn>
+                <learn>proses_pendaftaran.aiml</learn>
+                <learn>pengertian_dpfp.aiml</learn>
+                <learn>jenis_beasiswa.aiml</learn>
+                <learn>alamat_kampus.aiml</learn>
+                <learn>sosmed_kampus.aiml</learn>
+                <learn>jam_operasional.aiml</learn>
+                <learn>jalur_penerimaan.aiml</learn>
+                <learn>jpm_jpa.aiml</learn>
+                <learn>pendaftaran_jpa_jpm_umum.aiml</learn>
+                <learn>syarat_pendaftaran_jpa.aiml</learn>
+                <learn>syarat_pendaftaran_jpm.aiml</learn>
+                <learn>syarat_fak_kedokteran.aiml</learn>
+                <learn>syarat_fak_teologi.aiml</learn>
+                <learn>syarat_fak_umum.aiml</learn>
+                <learn>tes_fak_kedokteran.aiml</learn>
+                <learn>hasil_pmb.aiml</learn>
+                <learn>biaya_tes_dan_pendaftaran.aiml</learn>
+                <learn>waktu_pendaftaran_pengumuman_jpa.aiml</learn>
+                <learn>waktu_pendaftaran_pengumuman_jpm.aiml</learn>
+                <learn>tes_teologi.aiml</learn>
+                <learn>jenjang_s1.aiml</learn>
+                <learn>jenjang_s2.aiml</learn>
+                <learn>jenjang_s3.aiml</learn>
+                <learn>about_ice.aiml</learn>
+                <learn>proses_ice.aiml</learn>
+                <learn>tes_ice.aiml</learn>
             </template>
     </category>
 </aiml>
