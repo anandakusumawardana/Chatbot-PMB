@@ -1,0 +1,40 @@
+<?xml version = "1.0" encoding = "ISO-8859-1"?>
+<aiml version="2" encoding="ISO-8859-1">
+    <!-- alamat_kampus.aiml -->
+
+    <category>
+        <pattern>DIMANA ALAMAT *</pattern>
+            <template>
+                Kantor Admisi dan Promosi UKDW Jl. Dr. Wahidin Sudirohusodo No.5-25, Gondokusuman, Yogyakarta 55224
+            </template>
+    </category>
+
+    <category>
+        <pattern>LETAK *</pattern>
+            <template>
+                Kantor Admisi dan Promosi UKDW Jl. Dr. Wahidin Sudirohusodo No.5-25, Gondokusuman, Yogyakarta 55224
+            </template>
+    </category>
+
+    <category>
+        <pattern>LOKASI *</pattern>
+            <template>
+                Kantor Admisi dan Promosi UKDW Jl. Dr. Wahidin Sudirohusodo No.5-25, Gondokusuman, Yogyakarta 55224
+            </template>
+    </category>
+
+    <category>
+        <pattern>NOMOR YANG BISA DIHUBUNGI *</pattern>
+            <template>
+                Telp dan Fax: 0274-550657
+            </template>
+    </category>
+
+    <category>
+        <pattern>EMAIL *</pattern>
+            <template>
+                Email: pmb@staff.ukdw.ac.id
+            </template>
+    </category>
+
+</aiml>

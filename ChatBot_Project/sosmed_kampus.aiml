@@ -1,0 +1,32 @@
+<?xml version = "1.0" encoding = "ISO-8859-1"?>
+<aiml version="2" encoding="ISO-8859-1">
+    <!-- sosmed_kampus.aiml -->
+
+    <category>
+        <pattern>APAKAH KAMPUS *</pattern>
+            <template>
+                1. Facebook : Universitas Kristen Duta Wacana
+                2. Email : pmb@staff.ukdw.ac.id
+                3. Instagram : @pmbukdwjogja
+                4. Whatsapp : 0813 9160 7395
+            </template>
+    </category>
+
+    <category>
+        <pattern>KONTAK *</pattern>
+            <template>
+                1. Facebook : Universitas Kristen Duta Wacana
+                2. Email : pmb@staff.ukdw.ac.id
+                3. Instagram : @pmbukdwjogja
+                4. Whatsapp : 0813 9160 7395
+            </template>
+    </category>
+
+    <category>
+        <pattern>WHATSAPP *</pattern>
+            <template>
+                Whatsapp : 0813 9160 7395
+            </template>
+    </category>
+
+</aiml>

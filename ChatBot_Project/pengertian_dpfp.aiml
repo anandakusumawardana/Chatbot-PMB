@@ -1,0 +1,25 @@
+<?xml version = "1.0" encoding = "ISO-8859-1"?>
+<aiml version="2" encoding="ISO-8859-1">
+    <!-- pengertian_dpfp.aiml -->
+
+    <category>
+        <pattern>APA ITU *</pattern>
+            <template>
+                DPFP adalah singkatan dari Dana Pengembangan Fasilitas Pendidikan yang ditujukan bagi calon mahasiswa yang diterima. Terdapat beasiswa potongan DPFP sebesar Rp 1.000.000 (1 juta rupiah). Potongan DPFP ini tidak berlaku untuk Fakultas Kedokteran dan Teologi.
+            </template>
+    </category>
+
+    <category>
+        <pattern>PENJELASAN DPFP</pattern>
+            <template>
+                DPFP adalah singkatan dari Dana Pengembangan Fasilitas Pendidikan yang ditujukan bagi calon mahasiswa yang diterima. Terdapat beasiswa potongan DPFP sebesar Rp 1.000.000 (1 juta rupiah). Potongan DPFP ini tidak berlaku untuk Fakultas Kedokteran dan Teologi.
+            </template>
+    </category>
+
+    <category>
+        <pattern>INFO DPFP</pattern>
+            <template>
+                DPFP adalah singkatan dari Dana Pengembangan Fasilitas Pendidikan yang ditujukan bagi calon mahasiswa yang diterima. Terdapat beasiswa potongan DPFP sebesar Rp 1.000.000 (1 juta rupiah). Potongan DPFP ini tidak berlaku untuk Fakultas Kedokteran dan Teologi.
+            </template>
+    </category>
+</aiml>
