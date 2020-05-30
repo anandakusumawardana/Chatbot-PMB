@@ -1,0 +1,24 @@
+<?xml version = "1.0" encoding = "ISO-8859-1"?>
+<aiml version="2" encoding="ISO-8859-1">
+    <!-- jam_operasional.aiml -->
+
+    <category>
+        <pattern>JAM *</pattern>
+            <template>
+                Berikut jam layanan yang tersedia di UKDW:
+                1. 08.00 - 14.00 (Senin/Jumat)
+                2. 08.00 - 12.00 (Sabtu*)
+                *sesuai jadwal Tanggal Pengambilan Hasil Tes
+            </template>
+    </category>
+
+    <category>
+        <pattern>KAPAN JAM *</pattern>
+            <template>
+                Berikut jam layanan yang tersedia di UKDW:
+                1. 08.00 - 14.00 (Senin/Jumat)
+                2. 08.00 - 12.00 (Sabtu*)
+                *sesuai jadwal Tanggal Pengambilan Hasil Tes
+            </template>
+    </category>
+</aiml>

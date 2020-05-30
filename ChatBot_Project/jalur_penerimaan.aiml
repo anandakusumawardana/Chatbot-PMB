@@ -1,0 +1,47 @@
+<?xml version = "1.0" encoding = "ISO-8859-1"?>
+<aiml version="2" encoding="ISO-8859-1">
+    <!-- jalur_penerimaan.aiml -->
+
+        <category>
+            <pattern>JENIS JALUR *</pattern>
+                <template>
+                    A. Jalur Prestasi (tidak berlaku untuk Teologi dan Kedokteran)
+                    Jalur Prestasi Akademik (JPA) tanpa tes
+                    Jalur Potensi Mandiri (JPM) tanpa tes
+
+                    B. Jalur Reguler
+                </template>
+        </category>
+
+
+        <category>
+            <pattern>MACAM JALUR *</pattern>
+                <template>
+                    A. Jalur Prestasi (tidak berlaku untuk Teologi dan Kedokteran)
+                    Jalur Prestasi Akademik (JPA) tanpa tes
+                    Jalur Potensi Mandiri (JPM) tanpa tes
+
+                    B. Jalur Reguler
+                </template>
+        </category>
+
+        <category>
+            <pattern>JALUR *</pattern>
+                <template>
+                    A. Jalur Prestasi (tidak berlaku untuk Teologi dan Kedokteran)
+                    Jalur Prestasi Akademik (JPA) tanpa tes
+                    Jalur Potensi Mandiri (JPM) tanpa tes
+
+                    B. Jalur Reguler
+                </template>
+        </category>
+
+        <category>
+            <pattern>JALUR *</pattern>
+                <template>
+                    A. Jalur Prestasi (tidak berlaku untuk Teologi dan Kedokteran)
+                    Jalur Prestasi Akademik (JPA) tanpa tes
+                    Jalur Potensi Mandiri (JPM) tanpa tes
+                </template>
+        </category>
+</aiml>

@@ -29,4 +29,14 @@
                 8. Anda dapat login kembali nanti, jika ingin melakukan perubahan atau melengkapi data pendaftaran Anda <star/>
             </template>
     </category>
+
+    <category>
+        <pattern>BERKAS *</pattern>
+            <template>
+                1. tes
+                2. tes
+                3. tes
+                4. tes
+            </template>
+    </category>
 </aiml>

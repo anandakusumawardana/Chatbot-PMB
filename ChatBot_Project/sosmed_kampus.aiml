@@ -9,6 +9,7 @@
                 2. Email : pmb@staff.ukdw.ac.id
                 3. Instagram : @pmbukdwjogja
                 4. Whatsapp : 0813 9160 7395
+                5. Website: www.ukdw.ac.id
             </template>
     </category>
 
@@ -19,6 +20,7 @@
                 2. Email : pmb@staff.ukdw.ac.id
                 3. Instagram : @pmbukdwjogja
                 4. Whatsapp : 0813 9160 7395
+                5. Website: www.ukdw.ac.id
             </template>
     </category>
 
@@ -26,6 +28,20 @@
         <pattern>WHATSAPP *</pattern>
             <template>
                 Whatsapp : 0813 9160 7395
+            </template>
+    </category>
+
+    <category>
+        <pattern>INSTAGRAM *</pattern>
+            <template>
+                Instagram : @pmbukdwjogja
+            </template>
+    </category>
+
+    <category>
+        <pattern>FACEBOOK *</pattern>
+            <template>
+                Facebook : Universitas Kristen Duta Wacana
             </template>
     </category>
 

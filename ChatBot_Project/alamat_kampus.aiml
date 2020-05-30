@@ -23,6 +23,13 @@
             </template>
     </category>
 
+     <category>
+        <pattern>ALAMAT *</pattern>
+            <template>
+                Kantor Admisi dan Promosi UKDW Jl. Dr. Wahidin Sudirohusodo No.5-25, Gondokusuman, Yogyakarta 55224
+            </template>
+    </category>
+
     <category>
         <pattern>NOMOR YANG BISA DIHUBUNGI *</pattern>
             <template>
