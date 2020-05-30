@@ -25,4 +25,12 @@
                 dan pendaftaran di sekolah yang bekerja sama dengan UKDW <star/>
             </template>
     </category>
+
+     <category>
+        <pattern>SISTEM PENDAFTARAN *</pattern>
+            <template>
+                Bentuk pendaftaran mahasiswa baru di UKDW dapat dilakukan melalui pendaftaran online
+                dan pendaftaran di sekolah yang bekerja sama dengan UKDW <star/>
+            </template>
+    </category>
 </aiml>

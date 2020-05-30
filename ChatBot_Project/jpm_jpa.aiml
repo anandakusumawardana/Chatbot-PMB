@@ -1,0 +1,134 @@
+<?xml version = "1.0" encoding = "ISO-8859-1"?>
+<aiml version="2" encoding="ISO-8859-1">
+    <!-- jpm_jpa.aiml -->
+
+    <category>
+        <pattern>APA PERBEDAAN *</pattern>
+            <template>
+                JPM adalah seleksi penerimaan mahasiswa baru berdasarkan nilai rapor di luar skema JPA, berlaku untuk program studi non-Kedokteran dan non-Teologi. Nilai rapor yang digunakan adalah kelas 10 dan 11 SMA/SMK/Setara.
+            </template>
+    </category>
+
+    <category>
+        <pattern>PERBEDAAN *</pattern>
+            <template>
+                JPM adalah seleksi penerimaan mahasiswa baru berdasarkan nilai rapor di luar skema JPA, berlaku untuk program studi non-Kedokteran dan non-Teologi. Nilai rapor yang digunakan adalah kelas 10 dan 11 SMA/SMK/Setara.
+            </template>
+    </category>
+
+    <category>
+        <pattern>APA SAJA SYARAT * JPA</pattern>
+            <template>
+                1. Saat ini duduk di kelas 12 SMA/SMK/Setara (BUKAN HOMESCHOOLING).
+                2. Nilai rata-rata kognitif dalam Rapor Kelas 10 sampai kelas 11 minimal 75.
+                3. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                4. Fotokopi Rapor Kelas 10-11 yang dilegalisir oleh sekolah.
+                5. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+                6. Bagi pendaftar Program Studi Arsitektur, Desain Produk, dan Biologi wajib melampirkan surat keterangan bebas buta warna (pada saat registrasi mahasiswa baru).
+                7. Bagi pendaftar Program Studi Arsitektur wajib melampirkan sketsa gambar (2 lembar).
+                8. Setiap calon mahasiswa baru berhak mengikuti tes lewat Jalur Prestasi Akademik 1 kali.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT * JPA</pattern>
+            <template>
+                1. Saat ini duduk di kelas 12 SMA/SMK/Setara (BUKAN HOMESCHOOLING).
+                2. Nilai rata-rata kognitif dalam Rapor Kelas 10 sampai kelas 11 minimal 75.
+                3. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                4. Fotokopi Rapor Kelas 10-11 yang dilegalisir oleh sekolah.
+                5. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+                6. Bagi pendaftar Program Studi Arsitektur, Desain Produk, dan Biologi wajib melampirkan surat keterangan bebas buta warna (pada saat registrasi mahasiswa baru).
+                7. Bagi pendaftar Program Studi Arsitektur wajib melampirkan sketsa gambar (2 lembar).
+                8. Setiap calon mahasiswa baru berhak mengikuti tes lewat Jalur Prestasi Akademik 1 kali.
+            </template>
+    </category>
+
+    <category>
+        <pattern>PERSYARATAN * JPA</pattern>
+            <template>
+                1. Saat ini duduk di kelas 12 SMA/SMK/Setara (BUKAN HOMESCHOOLING).
+                2. Nilai rata-rata kognitif dalam Rapor Kelas 10 sampai kelas 11 minimal 75.
+                3. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                4. Fotokopi Rapor Kelas 10-11 yang dilegalisir oleh sekolah.
+                5. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+                6. Bagi pendaftar Program Studi Arsitektur, Desain Produk, dan Biologi wajib melampirkan surat keterangan bebas buta warna (pada saat registrasi mahasiswa baru).
+                7. Bagi pendaftar Program Studi Arsitektur wajib melampirkan sketsa gambar (2 lembar).
+                8. Setiap calon mahasiswa baru berhak mengikuti tes lewat Jalur Prestasi Akademik 1 kali.
+            </template>
+    </category>
+
+    <category>
+        <pattern>APA SAJA SYARAT * JPM</pattern>
+            <template>
+                1. Saat ini duduk di kelas 12 SMA/SMK/Setara (BUKAN HOMESCHOOLING).
+                2. Mengisi Formulir Pendaftaran dan membayar sebesar Rp 200.000,-.
+                3. Fotokopi Rapor Kelas 10-11 yang dilegalisir oleh sekolah.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+                5. Bagi pendaftar Program Studi Arsitektur, Desain Produk, dan Biologi wajib melampirkan surat keterangan bebas buta warna (pada saat registrasi mahasiswa baru).
+                6. Bagi pendaftar Program Studi Arsitektur wajib melampirkan sketsa gambar (2 lembar).
+                7. Setiap calon mahasiswa baru berhak mengikuti tes lewat Jalur Potensi Mandiri 1(satu) kali.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT * JPM</pattern>
+            <template>
+                1. Saat ini duduk di kelas 12 SMA/SMK/Setara (BUKAN HOMESCHOOLING).
+                2. Mengisi Formulir Pendaftaran dan membayar sebesar Rp 200.000,-.
+                3. Fotokopi Rapor Kelas 10-11 yang dilegalisir oleh sekolah.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+                5. Bagi pendaftar Program Studi Arsitektur, Desain Produk, dan Biologi wajib melampirkan surat keterangan bebas buta warna (pada saat registrasi mahasiswa baru).
+                6. Bagi pendaftar Program Studi Arsitektur wajib melampirkan sketsa gambar (2 lembar).
+                7. Setiap calon mahasiswa baru berhak mengikuti tes lewat Jalur Potensi Mandiri 1(satu) kali.
+            </template>
+    </category>
+
+    <category>
+        <pattern>PERSYARATAN * JPM</pattern>
+            <template>
+                1. Saat ini duduk di kelas 12 SMA/SMK/Setara (BUKAN HOMESCHOOLING).
+                2. Mengisi Formulir Pendaftaran dan membayar sebesar Rp 200.000,-.
+                3. Fotokopi Rapor Kelas 10-11 yang dilegalisir oleh sekolah.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+                5. Bagi pendaftar Program Studi Arsitektur, Desain Produk, dan Biologi wajib melampirkan surat keterangan bebas buta warna (pada saat registrasi mahasiswa baru).
+                6. Bagi pendaftar Program Studi Arsitektur wajib melampirkan sketsa gambar (2 lembar).
+                7. Setiap calon mahasiswa baru berhak mengikuti tes lewat Jalur Potensi Mandiri 1(satu) kali.
+            </template>
+    </category>
+
+    <category>
+        <pattern>APAKAH FAKULTAS KEDOKTERAN * JPA ATAU JPM</pattern>
+            <template>
+                Tidak Ada
+            </template>
+    </category>
+
+    <category>
+        <pattern>JPA ATAU JPM * FAKULTAS KEDOKTERAN</pattern>
+            <template>
+                Tidak Ada
+            </template>
+    </category>
+
+    <category>
+        <pattern>* JPA ATAU JPM * FAKULTAS KEDOKTERAN</pattern>
+            <template>
+                Tidak Ada
+            </template>
+    </category>
+
+    <category>
+        <pattern>APAKAH FAKULTAS TEOLOGI * JPA ATAU JPM</pattern>
+            <template>
+                Tidak Ada
+            </template>
+    </category>
+
+    <category>
+        <pattern>* JPA ATAU JPM * FAKULTAS TEOLOGI</pattern>
+            <template>
+                Tidak Ada
+            </template>
+    </category>
+</aiml>

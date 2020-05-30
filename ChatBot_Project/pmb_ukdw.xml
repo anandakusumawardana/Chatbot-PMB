@@ -14,9 +14,6 @@
                 <learn>jam_operasional.aiml</learn>
                 <learn>jalur_penerimaan.aiml</learn>
                 <learn>jpm_jpa.aiml</learn>
-                <learn>pendaftaran_jpa_jpm_umum.aiml</learn>
-                <learn>syarat_pendaftaran_jpa.aiml</learn>
-                <learn>syarat_pendaftaran_jpm.aiml</learn>
                 <learn>syarat_fak_kedokteran.aiml</learn>
                 <learn>syarat_fak_teologi.aiml</learn>
                 <learn>syarat_fak_umum.aiml</learn>
