@@ -102,7 +102,7 @@
             </template>
     </category>
 
-    <category>
+        <category>
         <pattern>APA SAJA * FAKULTAS BIOTEKNOLOGI</pattern>
             <template>
                 1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
@@ -131,4 +131,515 @@
                 4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
             </template>
     </category>
+
+    <category>
+        <pattern>SYARAT * FAKULTAS BIOTEKNOLOGI</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT * FAK BIOTEKNOLOGI</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT * BIOTEK</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT FAKULTAS BIOTEKNOLOGI</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT MENDAFTAR FAKULTAS BIOTEKNOLOGI</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>KETENTUAN MENDAFTAR FAKULTAS BIOTEKNOLOGI</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>PERSYARATAN MENDAFTAR FAKULTAS BIOTEKNOLOGI</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+        <category>
+        <pattern>APA SAJA * FAKULTAS ARSITEKTUR</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+		        5. Bagi pendaftar Program Studi Arsitektur, Desain Produk, dan Biologi wajib melampirkan surat keterangan bebas buta warna (pada saat registrasi mahasiswa baru).
+		        6. Bagi pendaftar Program Studi Arsitektur wajib melampirkan sketsa gambar (2 lembar).
+            </template>
+    </category>
+
+    <category>
+        <pattern>APA SAJA * FAK ARSITEKTUR</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+		        5. Bagi pendaftar Program Studi Arsitektur, Desain Produk, dan Biologi wajib melampirkan surat keterangan bebas buta warna (pada saat registrasi mahasiswa baru).
+		        6. Bagi pendaftar Program Studi Arsitektur wajib melampirkan sketsa gambar (2 lembar).
+            </template>
+    </category>
+
+    <category>
+        <pattern>APA SAJA * ARSITEKTUR</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+		        5. Bagi pendaftar Program Studi Arsitektur, Desain Produk, dan Biologi wajib melampirkan surat keterangan bebas buta warna (pada saat registrasi mahasiswa baru).
+		        6. Bagi pendaftar Program Studi Arsitektur wajib melampirkan sketsa gambar (2 lembar).
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT * FAKULTAS ARSITEKTUR</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+		        5. Bagi pendaftar Program Studi Arsitektur, Desain Produk, dan Biologi wajib melampirkan surat keterangan bebas buta warna (pada saat registrasi mahasiswa baru).
+		        6. Bagi pendaftar Program Studi Arsitektur wajib melampirkan sketsa gambar (2 lembar).
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT * FAK ARSITEKTUR</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+		        5. Bagi pendaftar Program Studi Arsitektur, Desain Produk, dan Biologi wajib melampirkan surat keterangan bebas buta warna (pada saat registrasi mahasiswa baru).
+		        6. Bagi pendaftar Program Studi Arsitektur wajib melampirkan sketsa gambar (2 lembar).
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT * ARSITEKTUR</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+		        5. Bagi pendaftar Program Studi Arsitektur, Desain Produk, dan Biologi wajib melampirkan surat keterangan bebas buta warna (pada saat registrasi mahasiswa baru).
+		        6. Bagi pendaftar Program Studi Arsitektur wajib melampirkan sketsa gambar (2 lembar).
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT FAKULTAS ARSITEKTUR</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+		        5. Bagi pendaftar Program Studi Arsitektur, Desain Produk, dan Biologi wajib melampirkan surat keterangan bebas buta warna (pada saat registrasi mahasiswa baru).
+		        6. Bagi pendaftar Program Studi Arsitektur wajib melampirkan sketsa gambar (2 lembar).
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT MENDAFTAR FAKULTAS ARSITEKTUR</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+		        5. Bagi pendaftar Program Studi Arsitektur, Desain Produk, dan Biologi wajib melampirkan surat keterangan bebas buta warna (pada saat registrasi mahasiswa baru).
+		        6. Bagi pendaftar Program Studi Arsitektur wajib melampirkan sketsa gambar (2 lembar).
+            </template>
+    </category>
+
+    <category>
+        <pattern>KETENTUAN MENDAFTAR FAKULTAS ARSITEKTUR</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+		        5. Bagi pendaftar Program Studi Arsitektur, Desain Produk, dan Biologi wajib melampirkan surat keterangan bebas buta warna (pada saat registrasi mahasiswa baru).
+		        6. Bagi pendaftar Program Studi Arsitektur wajib melampirkan sketsa gambar (2 lembar).
+            </template>
+    </category>
+
+    <category>
+        <pattern>PERSYARATAN MENDAFTAR FAKULTAS ARSITEKTUR</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+		        5. Bagi pendaftar Program Studi Arsitektur, Desain Produk, dan Biologi wajib melampirkan surat keterangan bebas buta warna (pada saat registrasi mahasiswa baru).
+		        6. Bagi pendaftar Program Studi Arsitektur wajib melampirkan sketsa gambar (2 lembar).
+            </template>
+    </category>
+
+        <category>
+        <pattern>APA SAJA * FAKULTAS DESAIN</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+		        5. Bagi pendaftar Program Studi Arsitektur, Desain Produk, dan Biologi wajib melampirkan surat keterangan bebas buta warna (pada saat registrasi mahasiswa baru).
+		        6. Bagi pendaftar Program Studi Arsitektur wajib melampirkan sketsa gambar (2 lembar).
+            </template>
+    </category>
+
+    <category>
+        <pattern>APA SAJA * FAK DESAIN</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+		        5. Bagi pendaftar Program Studi Arsitektur, Desain Produk, dan Biologi wajib melampirkan surat keterangan bebas buta warna (pada saat registrasi mahasiswa baru).
+		        6. Bagi pendaftar Program Studi Arsitektur wajib melampirkan sketsa gambar (2 lembar).
+            </template>
+    </category>
+
+    <category>
+        <pattern>APA SAJA * DESAIN</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+		        5. Bagi pendaftar Program Studi Arsitektur, Desain Produk, dan Biologi wajib melampirkan surat keterangan bebas buta warna (pada saat registrasi mahasiswa baru).
+		        6. Bagi pendaftar Program Studi Arsitektur wajib melampirkan sketsa gambar (2 lembar).
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT * FAKULTAS DESAIN</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+                5. Bagi pendaftar Program Studi Arsitektur, Desain Produk, dan Biologi wajib melampirkan surat keterangan bebas buta warna (pada saat registrasi mahasiswa baru).
+		        6. Bagi pendaftar Program Studi Arsitektur wajib melampirkan sketsa gambar (2 lembar).
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT * FAK DESAIN</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+		        5. Bagi pendaftar Program Studi Arsitektur, Desain Produk, dan Biologi wajib melampirkan surat keterangan bebas buta warna (pada saat registrasi mahasiswa baru).
+		        6. Bagi pendaftar Program Studi Arsitektur wajib melampirkan sketsa gambar (2 lembar).
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT * DESAIN</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+		        5. Bagi pendaftar Program Studi Arsitektur, Desain Produk, dan Biologi wajib melampirkan surat keterangan bebas buta warna (pada saat registrasi mahasiswa baru).
+		        6. Bagi pendaftar Program Studi Arsitektur wajib melampirkan sketsa gambar (2 lembar).
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT FAKULTAS DESAIN</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+		        5. Bagi pendaftar Program Studi Arsitektur, Desain Produk, dan Biologi wajib melampirkan surat keterangan bebas buta warna (pada saat registrasi mahasiswa baru).
+		        6. Bagi pendaftar Program Studi Arsitektur wajib melampirkan sketsa gambar (2 lembar).
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT MENDAFTAR FAKULTAS DESAIN</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+		        5. Bagi pendaftar Program Studi Arsitektur, Desain Produk, dan Biologi wajib melampirkan surat keterangan bebas buta warna (pada saat registrasi mahasiswa baru).
+		        6. Bagi pendaftar Program Studi Arsitektur wajib melampirkan sketsa gambar (2 lembar).
+            </template>
+    </category>
+
+    <category>
+        <pattern>KETENTUAN MENDAFTAR FAKULTAS DESAIN</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+		        5. Bagi pendaftar Program Studi Arsitektur, Desain Produk, dan Biologi wajib melampirkan surat keterangan bebas buta warna (pada saat registrasi mahasiswa baru).
+		        6. Bagi pendaftar Program Studi Arsitektur wajib melampirkan sketsa gambar (2 lembar).
+            </template>
+    </category>
+
+    <category>
+        <pattern>PERSYARATAN MENDAFTAR FAKULTAS DESAIN</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+		        5. Bagi pendaftar Program Studi Arsitektur, Desain Produk, dan Biologi wajib melampirkan surat keterangan bebas buta warna (pada saat registrasi mahasiswa baru).
+		        6. Bagi pendaftar Program Studi Arsitektur wajib melampirkan sketsa gambar (2 lembar).
+            </template>
+    </category>
+
+        <category>
+        <pattern>APA SAJA * FAKULTAS TEKNOLOGI INFORMASI</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>APA SAJA * FAK TEKNOLOGI INFORMASI</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>APA SAJA * TEKNOLOGI INFORMASI</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT * FAKULTAS TEKNOLOGI INFORMASI</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT * FAK TEKNOLOGI INFORMASI</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT * TEKNOLOGI INFORMASI</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT FAKULTAS TEKNOLOGI INFORMASI</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT MENDAFTAR FAKULTAS TEKNOLOGI INFORMASI</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>KETENTUAN MENDAFTAR FAKULTAS TEKNOLOGI INFORMASI</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>PERSYARATAN MENDAFTAR FAKULTAS TEKNOLOGI INFORMASI</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+        <category>
+        <pattern>APA SAJA * FAKULTAS KEPENDIDIKAN</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>APA SAJA * FAK KEPENDIDIKAN</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>APA SAJA * KEPENDIDIKAN</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT * FAKULTAS KEPENDIDIKAN</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT * FAK KEPENDIDIKAN</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT * KEPENDIDIKAN</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT FAKULTAS KEPENDIDIKAN</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT MENDAFTAR FAKULTAS KEPENDIDIKAN</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>KETENTUAN MENDAFTAR FAKULTAS KEPENDIDIKAN</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>PERSYARATAN MENDAFTAR FAKULTAS KEPENDIDIKAN</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
 </aiml>
