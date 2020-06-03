@@ -1,0 +1,307 @@
+<?xml version = "1.0" encoding = "ISO-8859-1"?>
+<aiml version="2" encoding="ISO-8859-1">
+    <!-- syarat_fak_umum.aiml -->
+
+    <category>
+        <pattern>APA SAJA * FAKULTAS BISNIS</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>APA SAJA * FAK BISNIS</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>APA SAJA * BISNIS</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT * FAKULTAS BISNIS</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT * FAK BISNIS</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT * BISNIS</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT FAKULTAS BISNIS</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT MENDAFTAR FAKULTAS BISNIS</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>KETENTUAN MENDAFTAR FAKULTAS BISNIS</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>PERSYARATAN MENDAFTAR FAKULTAS BISNIS</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+
+
+        <category>
+        <pattern>APA SAJA * FAKULTAS TEKNOLOGI INFORMASI</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>APA SAJA * FAK TEKNOLOGI INFORMASI</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>APA SAJA * TEKNOLOGI INFORMASI</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT * FAKULTAS TEKNOLOGI INFORMASI</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT * FAK TEKNOLOGI INFORMASI</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT * TEKNOLOGI INFORMASI</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT FAKULTAS TEKNOLOGI INFORMASI</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT MENDAFTAR FAKULTAS TEKNOLOGI INFORMASI</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>KETENTUAN MENDAFTAR FAKULTAS TEKNOLOGI INFORMASI</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>PERSYARATAN MENDAFTAR FAKULTAS TEKNOLOGI INFORMASI</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+        <category>
+        <pattern>APA SAJA * FAKULTAS KEPENDIDIKAN</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>APA SAJA * FAK KEPENDIDIKAN</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>APA SAJA * KEPENDIDIKAN</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT * FAKULTAS KEPENDIDIKAN</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT * FAK KEPENDIDIKAN</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT * KEPENDIDIKAN</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT FAKULTAS KEPENDIDIKAN</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT MENDAFTAR FAKULTAS KEPENDIDIKAN</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>KETENTUAN MENDAFTAR FAKULTAS KEPENDIDIKAN</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+    <category>
+        <pattern>PERSYARATAN MENDAFTAR FAKULTAS KEPENDIDIKAN</pattern>
+            <template>
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+            </template>
+    </category>
+
+</aiml>

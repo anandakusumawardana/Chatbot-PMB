@@ -16,7 +16,10 @@
                 <learn>jpm_jpa.aiml</learn>
                 <learn>syarat_fak_kedokteran.aiml</learn>
                 <learn>syarat_fak_teologi.aiml</learn>
-                <learn>syarat_fak_umum.aiml</learn>
+                <learn>syarat_fak_bisnis.aiml</learn>
+                <learn>syarat_fak_biotek.aiml</learn>
+                <learn>syarat_fak_arsitektur</learn>
+                <learn>syarat_fak_desain</learn>
                 <learn>tes_fak_kedokteran.aiml</learn>
                 <learn>hasil_pmb.aiml</learn>
                 <learn>biaya_tes_dan_pendaftaran.aiml</learn>
