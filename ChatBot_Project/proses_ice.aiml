@@ -1,0 +1,64 @@
+<?xml version = "1.0" encoding = "ISO-8859-1"?>
+<aiml version="2" encoding="ISO-8859-1">
+    <!-- proses_ice.aiml -->
+
+        <category>
+            <pattern>BAGAIMANA PROSES ICE</pattern>
+                <template>
+                    Program ICE dibuka 3 kali periode setiap tahunnya (semester gasal, genap, dan kuliah antar semester).
+                    Pada semester gasal dan genap, pertemuan diadakan 2 kali seminggu @100 menit.
+                    Sedangkan pada masa semester pendek, pertemuan diadakan 8 kali seminggu @100 menit sehingga program
+                    lebih intensif dan pendek. Pada setiap level ICE memiliki total 24 pertemuan.
+                </template>
+        </category>
+
+        <category>
+            <pattern>BAGAIMANA PROSES ICE *</pattern>
+                <template>
+                    Program ICE dibuka 3 kali periode setiap tahunnya (semester gasal, genap, dan kuliah antar semester).
+                    Pada semester gasal dan genap, pertemuan diadakan 2 kali seminggu @100 menit.
+                    Sedangkan pada masa semester pendek, pertemuan diadakan 8 kali seminggu @100 menit sehingga program
+                    lebih intensif dan pendek. Pada setiap level ICE memiliki total 24 pertemuan.
+                </template>
+        </category>
+
+        <category>
+            <pattern>* PROSES ICE *</pattern>
+                <template>
+                    Program ICE dibuka 3 kali periode setiap tahunnya (semester gasal, genap, dan kuliah antar semester).
+                    Pada semester gasal dan genap, pertemuan diadakan 2 kali seminggu @100 menit.
+                    Sedangkan pada masa semester pendek, pertemuan diadakan 8 kali seminggu @100 menit sehingga program
+                    lebih intensif dan pendek. Pada setiap level ICE memiliki total 24 pertemuan.
+                </template>
+        </category>
+
+        <category>
+            <pattern>* CARA KERJA PROGRAM ICE</pattern>
+                <template>
+                    Program ICE dibuka 3 kali periode setiap tahunnya (semester gasal, genap, dan kuliah antar semester).
+                    Pada semester gasal dan genap, pertemuan diadakan 2 kali seminggu @100 menit.
+                    Sedangkan pada masa semester pendek, pertemuan diadakan 8 kali seminggu @100 menit sehingga program
+                    lebih intensif dan pendek. Pada setiap level ICE memiliki total 24 pertemuan.
+                </template>
+        </category>
+
+        <category>
+            <pattern>* CARA KERJA PROGRAM ICE *</pattern>
+                <template>
+                    Program ICE dibuka 3 kali periode setiap tahunnya (semester gasal, genap, dan kuliah antar semester).
+                    Pada semester gasal dan genap, pertemuan diadakan 2 kali seminggu @100 menit.
+                    Sedangkan pada masa semester pendek, pertemuan diadakan 8 kali seminggu @100 menit sehingga program
+                    lebih intensif dan pendek. Pada setiap level ICE memiliki total 24 pertemuan.
+                </template>
+        </category>
+
+        <category>
+            <pattern>* PROGRAM ICE *</pattern>
+                <template>
+                    Program ICE dibuka 3 kali periode setiap tahunnya (semester gasal, genap, dan kuliah antar semester).
+                    Pada semester gasal dan genap, pertemuan diadakan 2 kali seminggu @100 menit.
+                    Sedangkan pada masa semester pendek, pertemuan diadakan 8 kali seminggu @100 menit sehingga program
+                    lebih intensif dan pendek. Pada setiap level ICE memiliki total 24 pertemuan.
+                </template>
+        </category>
+</aiml>

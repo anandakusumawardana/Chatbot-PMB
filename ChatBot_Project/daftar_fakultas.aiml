@@ -1,0 +1,32 @@
+<?xml version = "1.0" encoding = "ISO-8859-1"?>
+<aiml version="2" encoding="ISO-8859-1">
+    <!-- daftar_fakultas_pmb.aiml -->
+
+        <category>
+            <pattern>APA SAJA FAKULTAS *</pattern>
+                <template>
+                    Fakultas yang tersedia di UKDW yaitu Fakultas Teologi, Teknologi Informasi, Arsitektur dan Desain, Bisnis, Bioteknologi, Kedokteran, dan Pendidikan Bahasa Inggris (PBI).
+                </template>
+        </category>
+
+        <category>
+            <pattern>DAFTAR FAKULTAS *</pattern>
+                <template>
+                    Fakultas yang tersedia di UKDW yaitu Fakultas Teologi, Teknologi Informasi, Arsitektur dan Desain, Bisnis, Bioteknologi, Kedokteran, dan Pendidikan Bahasa Inggris (PBI).
+                </template>
+        </category>
+
+        <category>
+            <pattern>*FAKULTAS YANG TERSEDIA*</pattern>
+                <template>
+                    Fakultas yang tersedia di UKDW yaitu Fakultas Teologi, Teknologi Informasi, Arsitektur dan Desain, Bisnis, Bioteknologi, Kedokteran, dan Pendidikan Bahasa Inggris (PBI).
+                </template>
+        </category>
+
+          <category>
+            <pattern>FAKULTAS DI UKDW</pattern>
+                <template>
+                    Fakultas yang tersedia di UKDW yaitu Fakultas Teologi, Teknologi Informasi, Arsitektur dan Desain, Bisnis, Bioteknologi, Kedokteran, dan Pendidikan Bahasa Inggris (PBI).
+                </template>
+        </category>
+</aiml>
