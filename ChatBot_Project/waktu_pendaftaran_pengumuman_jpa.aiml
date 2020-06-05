@@ -7,20 +7,20 @@
                 <template>
                    Waktu pendaftaran & pengumuman hasil seleksi JPA:
                    Periode 1:
-                   - Tanggal pendaftaran    : 2 September - 31 Oktober 2019
-                   - Pengumuman             : 5 Oktober dan 9 November 2019
+                   a. Tanggal pendaftaran    : 2 September - 31 Oktober 2019
+                   b. Pengumuman             : 5 Oktober dan 9 November 2019
                    Periode 2:
-                   - Tanggal pendaftaran    : 4 November 2019 - 31 Januari 2020
-                   - Pengumuman             : 7 Desember 2019 dan 8 Februari 2020
+                   a. Tanggal pendaftaran    : 4 November 2019 - 31 Januari 2020
+                   b. Pengumuman             : 7 Desember 2019 dan 8 Februari 2020
                    Periode 3:
-                   - Tanggal pendaftaran    : 3 Februari - 31 Maret 2020
-                   - Pengumuman             : 7 Maret dan 18 April 2020
+                   a. Tanggal pendaftaran    : 3 Februari - 31 Maret 2020
+                   b. Pengumuman             : 7 Maret dan 18 April 2020
                    Periode 4:
-                   - Tanggal pendaftaran    : 6 April - 5 Juni 2020
-                   - Pengumuman             : 9 Mei dan 13 Juni 2020
+                   a. Tanggal pendaftaran    : 6 April - 5 Juni 2020
+                   b. Pengumuman             : 9 Mei dan 13 Juni 2020
                    Periode 5:
-                   - Tanggal pendaftaran    : 2 Juni - 8 Agustus 2020
-                   - Pengumuman             : 4 Juli - 15 Agustus 2020
+                   a. Tanggal pendaftaran    : 2 Juni - 8 Agustus 2020
+                   b. Pengumuman             : 4 Juli - 15 Agustus 2020
                 </template>
         </category>
 
@@ -29,20 +29,20 @@
                 <template>
                    Waktu pendaftaran & pengumuman hasil seleksi JPA:
                    Periode 1:
-                   - Tanggal pendaftaran    : 2 September - 31 Oktober 2019
-                   - Pengumuman             : 5 Oktober dan 9 November 2019
+                   a. Tanggal pendaftaran    : 2 September - 31 Oktober 2019
+                   b. Pengumuman             : 5 Oktober dan 9 November 2019
                    Periode 2:
-                   - Tanggal pendaftaran    : 4 November 2019 - 31 Januari 2020
-                   - Pengumuman             : 7 Desember 2019 dan 8 Februari 2020
+                   a. Tanggal pendaftaran    : 4 November 2019 - 31 Januari 2020
+                   b. Pengumuman             : 7 Desember 2019 dan 8 Februari 2020
                    Periode 3:
-                   - Tanggal pendaftaran    : 3 Februari - 31 Maret 2020
-                   - Pengumuman             : 7 Maret dan 18 April 2020
+                   a. Tanggal pendaftaran    : 3 Februari - 31 Maret 2020
+                   b. Pengumuman             : 7 Maret dan 18 April 2020
                    Periode 4:
-                   - Tanggal pendaftaran    : 6 April - 5 Juni 2020
-                   - Pengumuman             : 9 Mei dan 13 Juni 2020
+                   a. Tanggal pendaftaran    : 6 April - 5 Juni 2020
+                   b. Pengumuman             : 9 Mei dan 13 Juni 2020
                    Periode 5:
-                   - Tanggal pendaftaran    : 2 Juni - 8 Agustus 2020
-                   - Pengumuman             : 4 Juli - 15 Agustus 2020
+                   a. Tanggal pendaftaran    : 2 Juni - 8 Agustus 2020
+                   b. Pengumuman             : 4 Juli - 15 Agustus 2020
                 </template>
         </category>
 
@@ -50,21 +50,20 @@
             <pattern>TANGGAL * JPA</pattern>
                 <template>
                    Waktu pendaftaran & pengumuman hasil seleksi JPA:
-                   Periode 1:
-                   - Tanggal pendaftaran    : 2 September - 31 Oktober 2019
-                   - Pengumuman             : 5 Oktober dan 9 November 2019
+                   a. Tanggal pendaftaran    : 2 September - 31 Oktober 2019
+                   b. Pengumuman             : 5 Oktober dan 9 November 2019
                    Periode 2:
-                   - Tanggal pendaftaran    : 4 November 2019 - 31 Januari 2020
-                   - Pengumuman             : 7 Desember 2019 dan 8 Februari 2020
+                   a. Tanggal pendaftaran    : 4 November 2019 - 31 Januari 2020
+                   b. Pengumuman             : 7 Desember 2019 dan 8 Februari 2020
                    Periode 3:
-                   - Tanggal pendaftaran    : 3 Februari - 31 Maret 2020
-                   - Pengumuman             : 7 Maret dan 18 April 2020
+                   a. Tanggal pendaftaran    : 3 Februari - 31 Maret 2020
+                   b. Pengumuman             : 7 Maret dan 18 April 2020
                    Periode 4:
-                   - Tanggal pendaftaran    : 6 April - 5 Juni 2020
-                   - Pengumuman             : 9 Mei dan 13 Juni 2020
+                   a. Tanggal pendaftaran    : 6 April - 5 Juni 2020
+                   b. Pengumuman             : 9 Mei dan 13 Juni 2020
                    Periode 5:
-                   - Tanggal pendaftaran    : 2 Juni - 8 Agustus 2020
-                   - Pengumuman             : 4 Juli - 15 Agustus 2020
+                   a. Tanggal pendaftaran    : 2 Juni - 8 Agustus 2020
+                   b. Pengumuman             : 4 Juli - 15 Agustus 2020
                 </template>
         </category>
 
@@ -73,20 +72,20 @@
                 <template>
                    Waktu pendaftaran & pengumuman hasil seleksi JPA:
                    Periode 1:
-                   - Tanggal pendaftaran    : 2 September - 31 Oktober 2019
-                   - Pengumuman             : 5 Oktober dan 9 November 2019
+                   a. Tanggal pendaftaran    : 2 September - 31 Oktober 2019
+                   b. Pengumuman             : 5 Oktober dan 9 November 2019
                    Periode 2:
-                   - Tanggal pendaftaran    : 4 November 2019 - 31 Januari 2020
-                   - Pengumuman             : 7 Desember 2019 dan 8 Februari 2020
+                   a. Tanggal pendaftaran    : 4 November 2019 - 31 Januari 2020
+                   b. Pengumuman             : 7 Desember 2019 dan 8 Februari 2020
                    Periode 3:
-                   - Tanggal pendaftaran    : 3 Februari - 31 Maret 2020
-                   - Pengumuman             : 7 Maret dan 18 April 2020
+                   a. Tanggal pendaftaran    : 3 Februari - 31 Maret 2020
+                   b. Pengumuman             : 7 Maret dan 18 April 2020
                    Periode 4:
-                   - Tanggal pendaftaran    : 6 April - 5 Juni 2020
-                   - Pengumuman             : 9 Mei dan 13 Juni 2020
+                   a. Tanggal pendaftaran    : 6 April - 5 Juni 2020
+                   b. Pengumuman             : 9 Mei dan 13 Juni 2020
                    Periode 5:
-                   - Tanggal pendaftaran    : 2 Juni - 8 Agustus 2020
-                   - Pengumuman             : 4 Juli dan 15 Agustus 2020
+                   a. Tanggal pendaftaran    : 2 Juni - 8 Agustus 2020
+                   b. Pengumuman             : 4 Juli - 15 Agustus 2020
                 </template>
         </category>
 
@@ -95,8 +94,8 @@
                 <template>
                    Waktu pendaftaran & pengumuman hasil seleksi JPA:
                    Periode 1:
-                   - Tanggal pendaftaran    : 2 September - 31 Oktober 2019
-                   - Pengumuman             : 5 Oktober dan 9 November 2019
+                   a. Tanggal pendaftaran    : 2 September - 31 Oktober 2019
+                   b. Pengumuman             : 5 Oktober dan 9 November 2019
                 </template>
         </category>
 
@@ -105,8 +104,8 @@
                 <template>
                    Waktu pendaftaran & pengumuman hasil seleksi JPA:
                    Periode 2:
-                   - Tanggal pendaftaran    : 4 November 2019 - 31 Januari 2020
-                   - Pengumuman             : 7 Desember 2019 dan 8 Februari 2020
+                   a. Tanggal pendaftaran    : 4 November 2019 - 31 Januari 2020
+                   b. Pengumuman             : 7 Desember 2019 dan 8 Februari 2020
                 </template>
         </category>
 
@@ -115,8 +114,8 @@
                 <template>
                    Waktu pendaftaran & pengumuman hasil seleksi JPA:
                    Periode 3:
-                   - Tanggal pendaftaran    : 3 Februari - 31 Maret 2020
-                   - Pengumuman             : 7 Maret dan 18 April 2020
+                   a. Tanggal pendaftaran    : 3 Februari - 31 Maret 2020
+                   b. Pengumuman             : 7 Maret dan 18 April 2020
                 </template>
         </category>
 
@@ -125,8 +124,8 @@
                 <template>
                    Waktu pendaftaran & pengumuman hasil seleksi JPA:
                    Periode4:
-                   - Tanggal pendaftaran    : 6 April - 5 Juni 2020
-                   - Pengumuman             : 9 Mei dan 13 Juni 2020
+                   a. Tanggal pendaftaran    : 6 April - 5 Juni 2020
+                   b. Pengumuman             : 9 Mei dan 13 Juni 2020
                 </template>
         </category>
 
@@ -135,8 +134,8 @@
                 <template>
                    Waktu pendaftaran & pengumuman hasil seleksi JPA:
                    Periode 5:
-                   - Tanggal pendaftaran    : 2 Juni - 8 Agustus 2020
-                   - Pengumuman             : 4 Juli dan 15 Agustus 2020
+                   a. Tanggal pendaftaran    : 2 Juni - 8 Agustus 2020
+                   b. Pengumuman             : 4 Juli dan 15 Agustus 2020
                 </template>
         </category>
 
@@ -145,8 +144,8 @@
                 <template>
                    Waktu pendaftaran & pengumuman hasil seleksi JPA:
                    Periode 1:
-                   - Tanggal pendaftaran    : 2 September - 31 Oktober 2019
-                   - Pengumuman             : 5 Oktober dan 9 November 2019
+                   a. Tanggal pendaftaran    : 2 September - 31 Oktober 2019
+                   b. Pengumuman             : 5 Oktober dan 9 November 2019
                 </template>
         </category>
 
@@ -155,8 +154,8 @@
                 <template>
                    Waktu pendaftaran & pengumuman hasil seleksi JPA:
                    Periode 2:
-                   - Tanggal pendaftaran    : 4 November 2019 - 31 Januari 2020
-                   - Pengumuman             : 7 Desember 2019 dan 8 Februari 2020
+                   a. Tanggal pendaftaran    : 4 November 2019 - 31 Januari 2020
+                   b. Pengumuman             : 7 Desember 2019 dan 8 Februari 2020
                 </template>
         </category>
 
@@ -165,8 +164,8 @@
                 <template>
                    Waktu pendaftaran & pengumuman hasil seleksi JPA:
                    Periode 3:
-                   - Tanggal pendaftaran    : 3 Februari - 31 Maret 2020
-                   - Pengumuman             : 7 Maret dan 18 April 2020
+                   a. Tanggal pendaftaran    : 3 Februari - 31 Maret 2020
+                   b. Pengumuman             : 7 Maret dan 18 April 2020
                 </template>
         </category>
 
@@ -175,8 +174,8 @@
                 <template>
                    Waktu pendaftaran & pengumuman hasil seleksi JPA:
                    Periode 4:
-                   - Tanggal pendaftaran    : 6 April - 5 Juni 2020
-                   - Pengumuman             : 9 Mei dan 13 Juni 2020
+                   a. Tanggal pendaftaran    : 6 April - 5 Juni 2020
+                   b. Pengumuman             : 9 Mei dan 13 Juni 2020
                 </template>
         </category>
 
@@ -185,8 +184,9 @@
                 <template>
                    Waktu pendaftaran & pengumuman hasil seleksi JPA:
                    Periode 5:
-                   - Tanggal pendaftaran    : 2 Juni - 8 Agustus 2020
-                   - Pengumuman             : 4 Juli dan 15 Agustus 2020
+                   a. Tanggal pendaftaran    : 2 Juni - 8 Agustus 2020
+                   b. Pengumuman             : 4 Juli dan 15 Agustus 2020
                 </template>
         </category>
+
 </aiml>
