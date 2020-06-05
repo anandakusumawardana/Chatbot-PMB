@@ -1,5 +1,6 @@
-
-
+<?xml version = "1.0" encoding = "ISO-8859-1"?>
+<aiml version="2" encoding="ISO-8859-1">
+    <!-- syarat_fak_desain.aiml -->
 
     <category>
         <pattern>APA SAJA * FAKULTAS DESAIN</pattern>
@@ -120,3 +121,5 @@
 		        6. Bagi pendaftar Program Studi Arsitektur wajib melampirkan sketsa gambar (2 lembar).
             </template>
     </category>
+
+</aiml>
