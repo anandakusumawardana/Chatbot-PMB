@@ -7,11 +7,11 @@
                 <template>
                    Waktu pendaftaran & pengumuman hasil seleksi JPM:
                    Periode 1:
-                   - Tanggal pendaftaran    : 6 April - 5 Juni 2020
-                   - Pengumuman             : 9 Mei dan 13 Juni 2020
+                   a. Tanggal pendaftaran    : 6 April - 5 Juni 2020
+                   b. Pengumuman             : 9 Mei dan 13 Juni 2020
                    Periode 2:
-                   - Tanggal pendaftaran    : 2 Juni - 8 Agustus 2020
-                   - Pengumuman             : 4 Juli dan 15 Agustus 2020
+                   a. Tanggal pendaftaran    : 2 Juni - 8 Agustus 2020
+                   b. Pengumuman             : 4 Juli dan 15 Agustus 2020
                 </template>
         </category>
 
@@ -20,11 +20,11 @@
                 <template>
                    Waktu pendaftaran & pengumuman hasil seleksi JPM:
                    Periode 1:
-                   - Tanggal pendaftaran    : 6 April - 5 Juni 2020
-                   - Pengumuman             : 9 Mei dan 13 Juni 2020
+                   a. Tanggal pendaftaran    : 6 April - 5 Juni 2020
+                   b. Pengumuman             : 9 Mei dan 13 Juni 2020
                    Periode 2:
-                   - Tanggal pendaftaran    : 2 Juni - 8 Agustus 2020
-                   - Pengumuman             : 4 Juli dan 15 Agustus 2020
+                   a. Tanggal pendaftaran    : 2 Juni - 8 Agustus 2020
+                   b. Pengumuman             : 4 Juli dan 15 Agustus 2020
                 </template>
         </category>
 
@@ -33,11 +33,11 @@
                 <template>
                    Waktu pendaftaran & pengumuman hasil seleksi JPM:
                    Periode 1:
-                   - Tanggal pendaftaran    : 6 April - 5 Juni 2020
-                   - Pengumuman             : 9 Mei dan 13 Juni 2020
+                   a. Tanggal pendaftaran    : 6 April - 5 Juni 2020
+                   b. Pengumuman             : 9 Mei dan 13 Juni 2020
                    Periode 2:
-                   - Tanggal pendaftaran    : 2 Juni - 8 Agustus 2020
-                   - Pengumuman             : 4 Juli dan 15 Agustus 2020
+                   a. Tanggal pendaftaran    : 2 Juni - 8 Agustus 2020
+                   b. Pengumuman
                 </template>
         </category>
 
@@ -46,11 +46,11 @@
                 <template>
                    Waktu pendaftaran & pengumuman hasil seleksi JPM:
                    Periode 1:
-                   - Tanggal pendaftaran    : 6 April - 5 Juni 2020
-                   - Pengumuman             : 9 Mei dan 13 Juni 2020
+                   a. Tanggal pendaftaran    : 6 April - 5 Juni 2020
+                   b. Pengumuman             : 9 Mei dan 13 Juni 2020
                    Periode 2:
-                   - Tanggal pendaftaran    : 2 Juni - 8 Agustus 2020
-                   - Pengumuman             : 4 Juli dan 15 Agustus 2020
+                   a. Tanggal pendaftaran    : 2 Juni - 8 Agustus 2020
+                   b. Pengumuman
                 </template>
         </category>
 
@@ -59,8 +59,8 @@
                 <template>
                    Waktu pendaftaran & pengumuman hasil seleksi JPM:
                    Periode 1:
-                   - Tanggal pendaftaran    : 6 April - 5 Juni 2020
-                   - Pengumuman             : 9 Mei dan 13 Juni 2020
+                   a. Tanggal pendaftaran    : 6 April - 5 Juni 2020
+                   b. Pengumuman             : 9 Mei dan 13 Juni 2020
                 </template>
         </category>
 
@@ -69,8 +69,8 @@
                 <template>
                    Waktu pendaftaran & pengumuman hasil seleksi JPM:
                    Periode 2:
-                   - Tanggal pendaftaran    : 2 Juni - 8 Agustus 2020
-                   - Pengumuman             : 4 Juli dan 15 Agustus 2020
+                   a. Tanggal pendaftaran    : 2 Juni - 8 Agustus 2020
+                   b. Pengumuman             : 4 Juli dan 15 Agustus 2020
                 </template>
         </category>
 
@@ -79,18 +79,18 @@
                 <template>
                    Waktu pendaftaran & pengumuman hasil seleksi JPM:
                    Periode 1:
-                   - Tanggal pendaftaran    : 6 April - 5 Juni 2020
-                   - Pengumuman             : 9 Mei dan 13 Juni 2020
+                   a. Tanggal pendaftaran    : 6 April - 5 Juni 2020
+                   b. Pengumuman             : 9 Mei dan 13 Juni 2020
                 </template>
         </category>
 
         <category>
             <pattern>TANGGAL * JPM * 2 *</pattern>
                 <template>
-                   Waktu pendaftaran & pengumuman hasil seleksi JPm:
+                   Waktu pendaftaran & pengumuman hasil seleksi JPM:
                    Periode 2:
-                   - Tanggal pendaftaran    : 2 Juni - 8 Agustus 2020
-                   - Pengumuman             : 4 Juli dan 15 Agustus 2020
+                   a. Tanggal pendaftaran    : 2 Juni - 8 Agustus 2020
+                   b. Pengumuman             : 4 Juli dan 15 Agustus 2020
                 </template>
         </category>
 
