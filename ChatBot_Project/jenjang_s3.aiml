@@ -1,0 +1,39 @@
+<?xml version = "1.0" encoding = "ISO-8859-1"?>
+<aiml version="2" encoding="ISO-8859-1">
+    <!-- jenjang_s3.aiml -->
+
+       <category>
+            <pattern>FAKULTAS JENJANG S3</pattern>
+                <template>
+                    Penerimaan mahasiswa baru pada jenjang S3 di UKDW yaitu fakultas Teologi.
+                </template>
+        </category>
+
+        <category>
+            <pattern>FAKULTAS PADA JENJANG S3</pattern>
+                <template>
+                    Penerimaan mahasiswa baru pada jenjang S3 di UKDW yaitu fakultas Teologi.
+                </template>
+        </category>
+
+        <category>
+            <pattern>FAKULTAS PADA JENJANG S3 *</pattern>
+                <template>
+                    Penerimaan mahasiswa baru pada jenjang S3 di UKDW yaitu fakultas Teologi.
+                </template>
+        </category>
+
+         <category>
+            <pattern>FAKULTAS YANG TERSEDIA PADA JENJANG S3</pattern>
+                <template>
+                    Penerimaan mahasiswa baru pada jenjang S3 di UKDW yaitu fakultas Teologi.
+                </template>
+        </category>
+
+        <category>
+            <pattern>* JENJANG S3 *</pattern>
+                <template>
+                    Penerimaan mahasiswa baru pada jenjang S3 di UKDW yaitu fakultas Teologi.
+                </template>
+        </category>
+</aiml>

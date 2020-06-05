@@ -32,6 +32,7 @@
                 <learn>about_ice.aiml</learn>
                 <learn>proses_ice.aiml</learn>
                 <learn>tes_ice.aiml</learn>
+                <learn>daftar_fakultas.aiml</learn>
                 <learn>gelombang_pendaftaran</learn>
             </template>
     </category>
