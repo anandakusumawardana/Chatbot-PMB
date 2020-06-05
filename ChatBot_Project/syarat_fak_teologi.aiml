@@ -1,0 +1,142 @@
+<?xml version = "1.0" encoding = "ISO-8859-1"?>
+<aiml version="2" encoding="ISO-8859-1">
+    <!-- syarat_fak_teologi.aiml -->
+
+    <category>
+        <pattern>APA SAJA * FAKULTAS TEOLOGI</pattern>
+            <template>
+                Syarat pendaftaran Fakultas Teologi:
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 3 lembar.
+                5. Surat asli rekomendasi sinode/gereja asal.
+                6. Fotokopi Surat Baptis/Sidi.
+                7. Surat Pernyataan Asli bermaterai Rp 6.000,- tentang kesanggupan pembiayaan selama studi oleh orang tua/wali/lembaga/gereja/sinode.
+                8. Setiap pendaftar boleh memilih maksimal 2 program studi di UKDW, dengan pilihan pertama wajib Prodi Teologi.
+
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT * FAKULTAS TEOLOGI</pattern>
+            <template>
+                Syarat pendaftaran Fakultas Teologi:
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 3 lembar.
+                5. Surat asli rekomendasi sinode/gereja asal.
+                6. Fotokopi Surat Baptis/Sidi.
+                7. Surat Pernyataan Asli bermaterai Rp 6.000,- tentang kesanggupan pembiayaan selama studi oleh orang tua/wali/lembaga/gereja/sinode.
+                8. Setiap pendaftar boleh memilih maksimal 2 program studi di UKDW, dengan pilihan pertama wajib Prodi Teologi.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT FAKULTAS TEOLOGI</pattern>
+            <template>
+                Syarat pendaftaran Fakultas Teologi:
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 3 lembar.
+                5. Surat asli rekomendasi sinode/gereja asal.
+                6. Fotokopi Surat Baptis/Sidi.
+                7. Surat Pernyataan Asli bermaterai Rp 6.000,- tentang kesanggupan pembiayaan selama studi oleh orang tua/wali/lembaga/gereja/sinode.
+                8. Setiap pendaftar boleh memilih maksimal 2 program studi di UKDW, dengan pilihan pertama wajib Prodi Teologi.
+            </template>
+    </category>
+
+    <category>
+        <pattern>BAGAIMANA CARA * FAKULTAS TEOLOGI</pattern>
+            <template>
+                Syarat pendaftaran Fakultas Teologi:
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 3 lembar.
+                5. Surat asli rekomendasi sinode/gereja asal.
+                6. Fotokopi Surat Baptis/Sidi.
+                7. Surat Pernyataan Asli bermaterai Rp 6.000,- tentang kesanggupan pembiayaan selama studi oleh orang tua/wali/lembaga/gereja/sinode.
+                8. Setiap pendaftar boleh memilih maksimal 2 program studi di UKDW, dengan pilihan pertama wajib Prodi Teologi.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SEPERTI APA * FAKULTAS TEOLOGI</pattern>
+            <template>
+                Syarat pendaftaran Fakultas Teologi:
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 3 lembar.
+                5. Surat asli rekomendasi sinode/gereja asal.
+                6. Fotokopi Surat Baptis/Sidi.
+                7. Surat Pernyataan Asli bermaterai Rp 6.000,- tentang kesanggupan pembiayaan selama studi oleh orang tua/wali/lembaga/gereja/sinode.
+                8. Setiap pendaftar boleh memilih maksimal 2 program studi di UKDW, dengan pilihan pertama wajib Prodi Teologi.
+            </template>
+    </category>
+
+    <category>
+        <pattern>APA SAJA * TEOLOGI</pattern>
+            <template>
+                Syarat pendaftaran Fakultas Teologi:
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 3 lembar.
+                5. Surat asli rekomendasi sinode/gereja asal.
+                6. Fotokopi Surat Baptis/Sidi.
+                7. Surat Pernyataan Asli bermaterai Rp 6.000,- tentang kesanggupan pembiayaan selama studi oleh orang tua/wali/lembaga/gereja/sinode.
+                8. Setiap pendaftar boleh memilih maksimal 2 program studi di UKDW, dengan pilihan pertama wajib Prodi Teologi.
+
+            </template>
+    </category>
+
+    <category>
+        <pattern>SYARAT * TEOLOGI</pattern>
+            <template>
+                Syarat pendaftaran Fakultas Teologi:
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 3 lembar.
+                5. Surat asli rekomendasi sinode/gereja asal.
+                6. Fotokopi Surat Baptis/Sidi.
+                7. Surat Pernyataan Asli bermaterai Rp 6.000,- tentang kesanggupan pembiayaan selama studi oleh orang tua/wali/lembaga/gereja/sinode.
+                8. Setiap pendaftar boleh memilih maksimal 2 program studi di UKDW, dengan pilihan pertama wajib Prodi Teologi.
+            </template>
+    </category>
+
+    <category>
+        <pattern>BAGAIMANA CARA * TEOLOGI</pattern>
+            <template>
+                Syarat pendaftaran Fakultas Teologi:
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 3 lembar.
+                5. Surat asli rekomendasi sinode/gereja asal.
+                6. Fotokopi Surat Baptis/Sidi.
+                7. Surat Pernyataan Asli bermaterai Rp 6.000,- tentang kesanggupan pembiayaan selama studi oleh orang tua/wali/lembaga/gereja/sinode.
+                8. Setiap pendaftar boleh memilih maksimal 2 program studi di UKDW, dengan pilihan pertama wajib Prodi Teologi.
+            </template>
+    </category>
+
+    <category>
+        <pattern>SEPERTI APA * TEOLOGI</pattern>
+            <template>
+                Syarat pendaftaran Fakultas Teologi:
+                1. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                2. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                3. Fotokopi Ijazah/SKHUN.
+                4. Foto berwarna terbaru ukuran 3x4 sebanyak 3 lembar.
+                5. Surat asli rekomendasi sinode/gereja asal.
+                6. Fotokopi Surat Baptis/Sidi.
+                7. Surat Pernyataan Asli bermaterai Rp 6.000,- tentang kesanggupan pembiayaan selama studi oleh orang tua/wali/lembaga/gereja/sinode.
+                8. Setiap pendaftar boleh memilih maksimal 2 program studi di UKDW, dengan pilihan pertama wajib Prodi Teologi.
+            </template>
+    </category>
+
+</aiml>

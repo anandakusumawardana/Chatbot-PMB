@@ -1,0 +1,465 @@
+<?xml version = "1.0" encoding = "ISO-8859-1"?>
+<aiml version="2" encoding="ISO-8859-1">
+    <!-- tes_fak_kedokteran.aiml -->
+
+        <category>
+            <pattern>KAPAN * TES * KEDOKTERAN</pattern>
+                <template>
+                    Pelaksanaan Tes Gelombang 3 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 23 Juni 2020
+                    c. Tanggal CBT (Online): 26 Juni 2020
+                    d. Pengumuman CBT: 28 Juni 2020
+                    e. Tanggal Wawancara: 2-3 Juli 2020
+                    f. Tanggal Pengumuman Final: 6 Juli 2020
+
+                    Pelaksanaan Tes Gelombang 4 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 28 Juli 2020
+                    c. Tanggal CBT (Online): 31 Juli 2020
+                    d. Pengumuman CBT: 2 Agustus 2020
+                    e. Tanggal Wawancara: 6-7 Agustus 2020
+                    f. Tanggal Pengumuman Final: 11 Agustus 2020
+                </template>
+        </category>
+
+        <category>
+            <pattern>KAPAN * TES * KEDOKTERAN *</pattern>
+                <template>
+                    Pelaksanaan Tes Gelombang 3 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 23 Juni 2020
+                    c. Tanggal CBT (Online): 26 Juni 2020
+                    d. Pengumuman CBT: 28 Juni 2020
+                    e. Tanggal Wawancara: 2-3 Juli 2020
+                    f. Tanggal Pengumuman Final: 6 Juli 2020
+
+                    Pelaksanaan Tes Gelombang 4 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 28 Juli 2020
+                    c. Tanggal CBT (Online): 31 Juli 2020
+                    d. Pengumuman CBT: 2 Agustus 2020
+                    e. Tanggal Wawancara: 6-7 Agustus 2020
+                    f. Tanggal Pengumuman Final: 11 Agustus 2020
+                </template>
+        </category>
+
+        <category>
+            <pattern>BAGAIMANA * TES * KEDOKTERAN</pattern>
+                <template>
+                    Pelaksanaan Tes Gelombang 3 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 23 Juni 2020
+                    c. Tanggal CBT (Online): 26 Juni 2020
+                    d. Pengumuman CBT: 28 Juni 2020
+                    e. Tanggal Wawancara: 2-3 Juli 2020
+                    f. Tanggal Pengumuman Final: 6 Juli 2020
+
+                    Pelaksanaan Tes Gelombang 4 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 28 Juli 2020
+                    c. Tanggal CBT (Online): 31 Juli 2020
+                    d. Pengumuman CBT: 2 Agustus 2020
+                    e. Tanggal Wawancara: 6-7 Agustus 2020
+                    f. Tanggal Pengumuman Final: 11 Agustus 2020
+                </template>
+        </category>
+
+        <category>
+            <pattern>BAGAIMANA * TES * KEDOKTERAN *</pattern>
+                <template>
+                    Pelaksanaan Tes Gelombang 3 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 23 Juni 2020
+                    c. Tanggal CBT (Online): 26 Juni 2020
+                    d. Pengumuman CBT: 28 Juni 2020
+                    e. Tanggal Wawancara: 2-3 Juli 2020
+                    f. Tanggal Pengumuman Final: 6 Juli 2020
+
+                    Pelaksanaan Tes Gelombang 4 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 28 Juli 2020
+                    c. Tanggal CBT (Online): 31 Juli 2020
+                    d. Pengumuman CBT: 2 Agustus 2020
+                    e. Tanggal Wawancara: 6-7 Agustus 2020
+                    f. Tanggal Pengumuman Final: 11 Agustus 2020
+                </template>
+        </category>
+
+        <category>
+            <pattern>TANGGAL * TES * KEDOKTERAN</pattern>
+                <template>
+                    Pelaksanaan Tes Gelombang 3 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 23 Juni 2020
+                    c. Tanggal CBT (Online): 26 Juni 2020
+                    d. Pengumuman CBT: 28 Juni 2020
+                    e. Tanggal Wawancara: 2-3 Juli 2020
+                    f. Tanggal Pengumuman Final: 6 Juli 2020
+
+                    Pelaksanaan Tes Gelombang 4 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 28 Juli 2020
+                    c. Tanggal CBT (Online): 31 Juli 2020
+                    d. Pengumuman CBT: 2 Agustus 2020
+                    e. Tanggal Wawancara: 6-7 Agustus 2020
+                    f. Tanggal Pengumuman Final: 11 Agustus 2020
+                </template>
+        </category>
+
+        <category>
+            <pattern>TANGGAL * TES * KEDOKTERAN *</pattern>
+                <template>
+                    Pelaksanaan Tes Gelombang 3 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 23 Juni 2020
+                    c. Tanggal CBT (Online): 26 Juni 2020
+                    d. Pengumuman CBT: 28 Juni 2020
+                    e. Tanggal Wawancara: 2-3 Juli 2020
+                    f. Tanggal Pengumuman Final: 6 Juli 2020
+
+                    Pelaksanaan Tes Gelombang 4 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 28 Juli 2020
+                    c. Tanggal CBT (Online): 31 Juli 2020
+                    d. Pengumuman CBT: 2 Agustus 2020
+                    e. Tanggal Wawancara: 6-7 Agustus 2020
+                    f. Tanggal Pengumuman Final: 11 Agustus 2020
+                </template>
+        </category>
+
+        <category>
+            <pattern>KAPAN * TES KEDOKTERAN</pattern>
+                <template>
+                    Pelaksanaan Tes Gelombang 3 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 23 Juni 2020
+                    c. Tanggal CBT (Online): 26 Juni 2020
+                    d. Pengumuman CBT: 28 Juni 2020
+                    e. Tanggal Wawancara: 2-3 Juli 2020
+                    f. Tanggal Pengumuman Final: 6 Juli 2020
+
+                    Pelaksanaan Tes Gelombang 4 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 28 Juli 2020
+                    c. Tanggal CBT (Online): 31 Juli 2020
+                    d. Pengumuman CBT: 2 Agustus 2020
+                    e. Tanggal Wawancara: 6-7 Agustus 2020
+                    f. Tanggal Pengumuman Final: 11 Agustus 2020
+                </template>
+        </category>
+
+        <category>
+            <pattern>KAPAN * TES KEDOKTERAN *</pattern>
+                <template>
+                    Pelaksanaan Tes Gelombang 3 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 23 Juni 2020
+                    c. Tanggal CBT (Online): 26 Juni 2020
+                    d. Pengumuman CBT: 28 Juni 2020
+                    e. Tanggal Wawancara: 2-3 Juli 2020
+                    f. Tanggal Pengumuman Final: 6 Juli 2020
+
+                    Pelaksanaan Tes Gelombang 4 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 28 Juli 2020
+                    c. Tanggal CBT (Online): 31 Juli 2020
+                    d. Pengumuman CBT: 2 Agustus 2020
+                    e. Tanggal Wawancara: 6-7 Agustus 2020
+                    f. Tanggal Pengumuman Final: 11 Agustus 2020
+                </template>
+        </category>
+
+        <category>
+            <pattern>BAGAIMANA * TES KEDOKTERAN</pattern>
+                <template>
+                    Pelaksanaan Tes Gelombang 3 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 23 Juni 2020
+                    c. Tanggal CBT (Online): 26 Juni 2020
+                    d. Pengumuman CBT: 28 Juni 2020
+                    e. Tanggal Wawancara: 2-3 Juli 2020
+                    f. Tanggal Pengumuman Final: 6 Juli 2020
+
+                    Pelaksanaan Tes Gelombang 4 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 28 Juli 2020
+                    c. Tanggal CBT (Online): 31 Juli 2020
+                    d. Pengumuman CBT: 2 Agustus 2020
+                    e. Tanggal Wawancara: 6-7 Agustus 2020
+                    f. Tanggal Pengumuman Final: 11 Agustus 2020
+                </template>
+        </category>
+
+        <category>
+            <pattern>BAGAIMANA * TES KEDOKTERAN *</pattern>
+                <template>
+                    Pelaksanaan Tes Gelombang 3 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 23 Juni 2020
+                    c. Tanggal CBT (Online): 26 Juni 2020
+                    d. Pengumuman CBT: 28 Juni 2020
+                    e. Tanggal Wawancara: 2-3 Juli 2020
+                    f. Tanggal Pengumuman Final: 6 Juli 2020
+
+                    Pelaksanaan Tes Gelombang 4 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 28 Juli 2020
+                    c. Tanggal CBT (Online): 31 Juli 2020
+                    d. Pengumuman CBT: 2 Agustus 2020
+                    e. Tanggal Wawancara: 6-7 Agustus 2020
+                    f. Tanggal Pengumuman Final: 11 Agustus 2020
+                </template>
+        </category>
+
+        <category>
+            <pattern>TANGGAL * TES KEDOKTERAN</pattern>
+                <template>
+                    Pelaksanaan Tes Gelombang 3 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 23 Juni 2020
+                    c. Tanggal CBT (Online): 26 Juni 2020
+                    d. Pengumuman CBT: 28 Juni 2020
+                    e. Tanggal Wawancara: 2-3 Juli 2020
+                    f. Tanggal Pengumuman Final: 6 Juli 2020
+
+                    Pelaksanaan Tes Gelombang 4 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 28 Juli 2020
+                    c. Tanggal CBT (Online): 31 Juli 2020
+                    d. Pengumuman CBT: 2 Agustus 2020
+                    e. Tanggal Wawancara: 6-7 Agustus 2020
+                    f. Tanggal Pengumuman Final: 11 Agustus 2020
+                </template>
+        </category>
+
+        <category>
+            <pattern>TANGGAL * TES KEDOKTERAN *</pattern>
+                <template>
+                    Pelaksanaan Tes Gelombang 3 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 23 Juni 2020
+                    c. Tanggal CBT (Online): 26 Juni 2020
+                    d. Pengumuman CBT: 28 Juni 2020
+                    e. Tanggal Wawancara: 2-3 Juli 2020
+                    f. Tanggal Pengumuman Final: 6 Juli 2020
+
+                    Pelaksanaan Tes Gelombang 4 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 28 Juli 2020
+                    c. Tanggal CBT (Online): 31 Juli 2020
+                    d. Pengumuman CBT: 2 Agustus 2020
+                    e. Tanggal Wawancara: 6-7 Agustus 2020
+                    f. Tanggal Pengumuman Final: 11 Agustus 2020
+                </template>
+        </category>
+
+        <category>
+            <pattern>* TES * 3 * KEDOKTERAN</pattern>
+                <template>
+                    Pelaksanaan Tes Gelombang 3 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 23 Juni 2020
+                    c. Tanggal CBT (Online): 26 Juni 2020
+                    d. Pengumuman CBT: 28 Juni 2020
+                    e. Tanggal Wawancara: 2-3 Juli 2020
+                    f. Tanggal Pengumuman Final: 6 Juli 2020
+                </template>
+        </category>
+
+        <category>
+            <pattern>* TES * 4 * KEDOKTERAN</pattern>
+                <template>
+                 Pelaksanaan Tes Gelombang 4 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 28 Juli 2020
+                    c. Tanggal CBT (Online): 31 Juli 2020
+                    d. Pengumuman CBT: 2 Agustus 2020
+                    e. Tanggal Wawancara: 6-7 Agustus 2020
+                    f. Tanggal Pengumuman Final: 11 Agustus 2020
+                </template>
+        </category>
+
+        <category>
+            <pattern>* TES * 3 * KEDOKTERAN *</pattern>
+                <template>
+                    Pelaksanaan Tes Gelombang 3 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 23 Juni 2020
+                    c. Tanggal CBT (Online): 26 Juni 2020
+                    d. Pengumuman CBT: 28 Juni 2020
+                    e. Tanggal Wawancara: 2-3 Juli 2020
+                    f. Tanggal Pengumuman Final: 6 Juli 2020
+                </template>
+        </category>
+
+        <category>
+            <pattern>* TES * 4 * KEDOKTERAN *</pattern>
+                <template>
+                 Pelaksanaan Tes Gelombang 4 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 28 Juli 2020
+                    c. Tanggal CBT (Online): 31 Juli 2020
+                    d. Pengumuman CBT: 2 Agustus 2020
+                    e. Tanggal Wawancara: 6-7 Agustus 2020
+                    f. Tanggal Pengumuman Final: 11 Agustus 2020
+                </template>
+        </category>
+
+        <category>
+            <pattern>* TES * 3 KEDOKTERAN</pattern>
+                <template>
+                    Pelaksanaan Tes Gelombang 3 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 23 Juni 2020
+                    c. Tanggal CBT (Online): 26 Juni 2020
+                    d. Pengumuman CBT: 28 Juni 2020
+                    e. Tanggal Wawancara: 2-3 Juli 2020
+                    f. Tanggal Pengumuman Final: 6 Juli 2020
+                </template>
+        </category>
+
+        <category>
+            <pattern>* TES * 4 KEDOKTERAN</pattern>
+                <template>
+                 Pelaksanaan Tes Gelombang 4 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 28 Juli 2020
+                    c. Tanggal CBT (Online): 31 Juli 2020
+                    d. Pengumuman CBT: 2 Agustus 2020
+                    e. Tanggal Wawancara: 6-7 Agustus 2020
+                    f. Tanggal Pengumuman Final: 11 Agustus 2020
+                </template>
+        </category>
+
+        <category>
+            <pattern>* TES * 3 KEDOKTERAN *</pattern>
+                <template>
+                    Pelaksanaan Tes Gelombang 3 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 23 Juni 2020
+                    c. Tanggal CBT (Online): 26 Juni 2020
+                    d. Pengumuman CBT: 28 Juni 2020
+                    e. Tanggal Wawancara: 2-3 Juli 2020
+                    f. Tanggal Pengumuman Final: 6 Juli 2020
+                </template>
+        </category>
+
+        <category>
+            <pattern>* TES * 4 KEDOKTERAN *</pattern>
+                <template>
+                 Pelaksanaan Tes Gelombang 4 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 28 Juli 2020
+                    c. Tanggal CBT (Online): 31 Juli 2020
+                    d. Pengumuman CBT: 2 Agustus 2020
+                    e. Tanggal Wawancara: 6-7 Agustus 2020
+                    f. Tanggal Pengumuman Final: 11 Agustus 2020
+                </template>
+        </category>
+
+       <category>
+            <pattern>* TES KEDOKTERAN * 3</pattern>
+                <template>
+                    Pelaksanaan Tes Gelombang 3 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 23 Juni 2020
+                    c. Tanggal CBT (Online): 26 Juni 2020
+                    d. Pengumuman CBT: 28 Juni 2020
+                    e. Tanggal Wawancara: 2-3 Juli 2020
+                    f. Tanggal Pengumuman Final: 6 Juli 2020
+                </template>
+        </category>
+
+        <category>
+            <pattern>* TES KEDOKTERAN * 4</pattern>
+                <template>
+                 Pelaksanaan Tes Gelombang 4 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 28 Juli 2020
+                    c. Tanggal CBT (Online): 31 Juli 2020
+                    d. Pengumuman CBT: 2 Agustus 2020
+                    e. Tanggal Wawancara: 6-7 Agustus 2020
+                    f. Tanggal Pengumuman Final: 11 Agustus 2020
+                </template>
+        </category>
+
+        <category>
+            <pattern>* TES KEDOKTERAN * 3 *</pattern>
+                <template>
+                    Pelaksanaan Tes Gelombang 3 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 23 Juni 2020
+                    c. Tanggal CBT (Online): 26 Juni 2020
+                    d. Pengumuman CBT: 28 Juni 2020
+                    e. Tanggal Wawancara: 2-3 Juli 2020
+                    f. Tanggal Pengumuman Final: 6 Juli 2020
+                </template>
+        </category>
+
+        <category>
+            <pattern>* TES KEDOKTERAN * 4 *</pattern>
+                <template>
+                 Pelaksanaan Tes Gelombang 4 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 28 Juli 2020
+                    c. Tanggal CBT (Online): 31 Juli 2020
+                    d. Pengumuman CBT: 2 Agustus 2020
+                    e. Tanggal Wawancara: 6-7 Agustus 2020
+                    f. Tanggal Pengumuman Final: 11 Agustus 2020
+                </template>
+        </category>\
+
+        <category>
+            <pattern>* TES * KEDOKTERAN * 3</pattern>
+                <template>
+                    Pelaksanaan Tes Gelombang 3 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 23 Juni 2020
+                    c. Tanggal CBT (Online): 26 Juni 2020
+                    d. Pengumuman CBT: 28 Juni 2020
+                    e. Tanggal Wawancara: 2-3 Juli 2020
+                    f. Tanggal Pengumuman Final: 6 Juli 2020
+                </template>
+        </category>
+
+        <category>
+            <pattern>* TES * KEDOKTERAN * 4</pattern>
+                <template>
+                 Pelaksanaan Tes Gelombang 4 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 28 Juli 2020
+                    c. Tanggal CBT (Online): 31 Juli 2020
+                    d. Pengumuman CBT: 2 Agustus 2020
+                    e. Tanggal Wawancara: 6-7 Agustus 2020
+                    f. Tanggal Pengumuman Final: 11 Agustus 2020
+                </template>
+        </category>
+
+        <category>
+            <pattern>* TES * KEDOKTERAN * 3 *</pattern>
+                <template>
+                    Pelaksanaan Tes Gelombang 3 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 23 Juni 2020
+                    c. Tanggal CBT (Online): 26 Juni 2020
+                    d. Pengumuman CBT: 28 Juni 2020
+                    e. Tanggal Wawancara: 2-3 Juli 2020
+                    f. Tanggal Pengumuman Final: 6 Juli 2020
+                </template>
+        </category>
+
+        <category>
+            <pattern>* TES * KEDOKTERAN * 4 *</pattern>
+                <template>
+                 Pelaksanaan Tes Gelombang 4 Fakultas Kedokteran:
+                    a. Tes dilakukan secara ONLINE
+                    b. Tanggal terakhir pendaftaran: 28 Juli 2020
+                    c. Tanggal CBT (Online): 31 Juli 2020
+                    d. Pengumuman CBT: 2 Agustus 2020
+                    e. Tanggal Wawancara: 6-7 Agustus 2020
+                    f. Tanggal Pengumuman Final: 11 Agustus 2020
+                </template>
+        </category>
+
+</aiml>
