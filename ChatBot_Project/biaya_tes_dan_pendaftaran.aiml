@@ -1,0 +1,119 @@
+<?xml version = "1.0" encoding = "ISO-8859-1"?>
+<aiml version="2" encoding="ISO-8859-1">
+    <!-- biaya_tes_dan_pendaftaran.aiml -->
+
+        <category>
+            <pattern>* BIAYA PENDAFTARAN *</pattern>
+                <template>
+                   Berikut adalah biaya pendaftaran dan tes:
+                   Fakultas Kedokteran  : Rp 500.000
+                   Fakultas Teologi     : Rp 500.000
+                </template>
+        </category>
+
+        <category>
+            <pattern>* BIAYA TES * </pattern>
+                <template>
+                   Berikut adalah biaya pendaftaran dan tes:
+                   Fakultas Kedokteran  : Rp 500.000
+                   Fakultas Teologi     : Rp 500.000
+                </template>
+        </category>
+
+         <category>
+            <pattern>BIAYA PENDAFTARAN *</pattern>
+                <template>
+                   Berikut adalah biaya pendaftaran dan tes:
+                   Fakultas Kedokteran  : Rp 500.000
+                   Fakultas Teologi     : Rp 500.000
+                </template>
+        </category>
+
+        <category>
+            <pattern>BIAYA TES *</pattern>
+                <template>
+                   Berikut adalah biaya pendaftaran dan tes:
+                   Fakultas Kedokteran  : Rp 500.000
+                   Fakultas Teologi     : Rp 500.000
+                </template>
+        </category>
+
+        <category>
+            <pattern>BIAYA PENDAFTARAN</pattern>
+                <template>
+                   Berikut adalah biaya pendaftaran dan tes:
+                   Fakultas Kedokteran  : Rp 500.000
+                   Fakultas Teologi     : Rp 500.000
+                </template>
+        </category>
+
+        <category>
+            <pattern>BIAYA TES</pattern>
+                <template>
+                   Berikut adalah biaya pendaftaran dan tes:
+                   Fakultas Kedokteran  : Rp 500.000
+                   Fakultas Teologi     : Rp 500.000
+                </template>
+        </category>
+
+        <category>
+            <pattern>* BIAYA * MENDAFTAR *</pattern>
+                <template>
+                   Berikut adalah biaya pendaftaran dan tes:
+                   Fakultas Kedokteran  : Rp 500.000
+                   Fakultas Teologi     : Rp 500.000
+                </template>
+        </category>
+
+        <category>
+            <pattern>BIAYA * MENDAFTAR *</pattern>
+                <template>
+                   Berikut adalah biaya pendaftaran dan tes:
+                   Fakultas Kedokteran  : Rp 500.000
+                   Fakultas Teologi     : Rp 500.000
+                </template>
+        </category>
+
+        <category>
+            <pattern>BIAYA PENDAFTARAN * KEDOKTERAN</pattern>
+                <template>
+                   Biaya pendaftaran dan tes untuk Fakultas Kedokteran sebesar Rp 500.000
+                </template>
+        </category>
+
+        <category>
+            <pattern>BIAYA TES * KEDOKTERAN</pattern>
+                <template>
+                   Biaya pendaftaran dan tes untuk Fakultas Kedokteran sebesar Rp 500.000
+                </template>
+        </category>
+
+        <category>
+            <pattern>BIAYA TES * KEDOKTERAN *</pattern>
+                <template>
+                   Biaya pendaftaran dan tes untuk Fakultas Kedokteran sebesar Rp 500.000
+                </template>
+        </category>
+
+        <category>
+            <pattern>BIAYA PENDAFTARAN * TEOLOGI</pattern>
+                <template>
+                   Biaya pendaftaran dan tes untuk Fakultas Teologi sebesar Rp 500.000
+                </template>
+        </category>
+
+        <category>
+            <pattern>BIAYA TES * TEOLOGI</pattern>
+                <template>
+                   Biaya pendaftaran dan tes untuk Fakultas Teologi sebesar Rp 500.000
+                </template>
+        </category>
+
+        <category>
+            <pattern>BIAYA TES * TEOLOGI *</pattern>
+                <template>
+                   Biaya pendaftaran dan tes untuk Fakultas Teologi sebesar Rp 500.000
+                </template>
+        </category>
+
+</aiml>
