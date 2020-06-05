@@ -67,7 +67,7 @@
         <category>
             <pattern>KAPAN * JPM * 2 *</pattern>
                 <template>
-                   Waktu pendaftaran & pengumuman hasil seleksi JPA:
+                   Waktu pendaftaran & pengumuman hasil seleksi JPM:
                    Periode 2:
                    - Tanggal pendaftaran    : 2 Juni - 8 Agustus 2020
                    - Pengumuman             : 4 Juli dan 15 Agustus 2020
@@ -87,7 +87,7 @@
         <category>
             <pattern>TANGGAL * JPM * 2 *</pattern>
                 <template>
-                   Waktu pendaftaran & pengumuman hasil seleksi JPA:
+                   Waktu pendaftaran & pengumuman hasil seleksi JPm:
                    Periode 2:
                    - Tanggal pendaftaran    : 2 Juni - 8 Agustus 2020
                    - Pengumuman             : 4 Juli dan 15 Agustus 2020
