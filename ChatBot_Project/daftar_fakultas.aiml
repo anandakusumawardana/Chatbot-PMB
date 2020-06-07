@@ -17,7 +17,7 @@
         </category>
 
         <category>
-            <pattern>*FAKULTAS YANG TERSEDIA*</pattern>
+            <pattern>* FAKULTAS YANG TERSEDIA *</pattern>
                 <template>
                     Fakultas yang tersedia di UKDW yaitu Fakultas Teologi, Teknologi Informasi, Arsitektur dan Desain, Bisnis, Bioteknologi, Kedokteran, dan Pendidikan Bahasa Inggris (PBI).
                 </template>
