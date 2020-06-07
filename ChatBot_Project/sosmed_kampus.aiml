@@ -32,6 +32,13 @@
     </category>
 
     <category>
+        <pattern>KONTAK WHATSAPP *</pattern>
+            <template>
+                Whatsapp : 0813 9160 7395
+            </template>
+    </category>
+
+    <category>
         <pattern>INSTAGRAM *</pattern>
             <template>
                 Instagram : @pmbukdwjogja
@@ -39,7 +46,21 @@
     </category>
 
     <category>
+        <pattern>KONTAK INSTAGRAM *</pattern>
+            <template>
+                Instagram : @pmbukdwjogja
+            </template>
+    </category>
+
+    <category>
         <pattern>FACEBOOK *</pattern>
+            <template>
+                Facebook : Universitas Kristen Duta Wacana
+            </template>
+    </category>
+
+     <category>
+        <pattern>KONTAK FACEBOOK *</pattern>
             <template>
                 Facebook : Universitas Kristen Duta Wacana
             </template>
