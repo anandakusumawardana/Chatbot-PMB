@@ -63,10 +63,10 @@ else:
     #else:
         #print("PMB > Maaf kakak, saya masih belajar mohon dicoba pertanyaan lainnya")
 
-txt = Text(root)
+txt = Text(root, font = "Corbel 11")
 txt.grid(row=0,column=0, columnspan=2)
 e = Entry(root, width=100)
-txt.insert(END, "Halo selamat datang di chatbot PMB UKDW\nInformasi apa yang ingin kakak ketahui?")
+txt.insert(END, "Halo selamat datang di chatbot PMB UKDW    (^_^)\nInformasi apa yang ingin kakak ketahui?")
 e.grid(row=1, column=0)
 
 def send():
@@ -79,6 +79,6 @@ def send():
         txt.insert(END,"\n"+"PMB > Maaf kakak, saya masih belajar mohon dicoba pertanyaan lainnya")
     e.delete(0,END)
     
-send = Button(root, text="Send",bg="blue",activebackground="lightblue",command=send).grid(row=1, column=1)
+send = Button(root, text="Send",bg="blue",activebackground="lightblue", fg="white", command=send).grid(row=1, column=1)
 
 root.mainloop()
