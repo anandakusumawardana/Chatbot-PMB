@@ -63,20 +63,22 @@ else:
     #else:
         #print("PMB > Maaf kakak, saya masih belajar mohon dicoba pertanyaan lainnya")
 
+txt = Text(root)
+txt.grid(row=0,column=0, columnspan=2)
+e = Entry(root, width=100)
+txt.insert(END, "Halo selamat datang di chatbot PMB UKDW\nInformasi apa yang ingin kakak ketahui?")
+e.grid(row=1, column=0)
+
 def send():
     send="USER > "+e.get()
     user_input=kernel.respond(e.get())
     txt.insert(END, "\n"+send)
     if user_input:
-        txt.insert(END,"\n"+user_input)
+        txt.insert(END,"\nPMB > "+user_input)
     else:
-        txt.insert(END,"\n"+"CHATBOT > Sorry I didn't get it")
+        txt.insert(END,"\n"+"PMB > Maaf kakak, saya masih belajar mohon dicoba pertanyaan lainnya")
     e.delete(0,END)
     
-txt = Text(root)
-txt.grid(row=0,column=0, columnspan=2)
-e = Entry(root, width=100)
-send = Button(root, text="Send",command=send).grid(row=1, column=1)
-e.grid(row=1, column=0)
+send = Button(root, text="Send",bg="blue",activebackground="lightblue",command=send).grid(row=1, column=1)
 
 root.mainloop()
