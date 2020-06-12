@@ -28,11 +28,11 @@ file_menu.add_command(label="Exit")
 #root.config(menu=main_menu)
 #
 # # Create the chat area
-chatWindow = Text(root, bd=1, bg="cornflower blue", width=50, height=8, font = "Corbel 11")
+chatWindow = Text(root, bd=1, bg="deep sky blue", width=50, height=8, font = "Corbel 11")
 chatWindow.place(x=6, y=6, height=385, width=475)
 #
 # # Create the message window
-messageWindow = Text(root, bg="cornflower blue", width=30, height=4, font = "Corbel 11")
+messageWindow = Text(root, bg="deep sky blue", width=30, height=4, font = "Corbel 11")
 messageWindow.place(x=6, y=400, height=50, width=400)
 #
 
