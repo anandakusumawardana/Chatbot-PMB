@@ -15,12 +15,9 @@
                 <learn>jalur_penerimaan.aiml</learn>
                 <learn>jpm_jpa.aiml</learn>
                 <learn>syarat_fak_kedokteran.aiml</learn>
-                <learn>syarat_fak_teknologi_informasi.aiml</learn>
                 <learn>syarat_fak_teologi.aiml</learn>
-                <learn>syarat_fak_bisnis.aiml</learn>
-                <learn>syarat_fak_biotek.aiml</learn>
-                <learn>syarat_fak_arsitektur.aiml</learn>
-                <learn>syarat_fak_desain.aiml</learn>
+                <learn>syarat_fak_bisnis_fti.aiml</learn>
+                <learn>syarat_fak_arsi_despro_biotek.aiml</learn>
                 <learn>syarat_fak_teologi.aiml</learn>
                 <learn>tes_fak_kedokteran.aiml</learn>
                 <learn>hasil_pmb.aiml</learn>

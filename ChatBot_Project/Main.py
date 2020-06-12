@@ -1,8 +1,8 @@
 # Bot PMB
 import os
+from tkinter import *
 
 import aiml
-from tkinter import *
 
 # # Create the GUI
 # # Create tkinter object (represent the parent window)
@@ -13,7 +13,7 @@ root = Tk()
 root.title("PMB UKDW")
 #
 # # Give the window some dimensions
-root.geometry("500x460")
+root.geometry("1280x720")
 #
 # # Create the menu bar
 main_menu = Menu(root)
@@ -24,24 +24,24 @@ file_menu.add_command(label="New")
 file_menu.add_command(label="Save As")
 file_menu.add_command(label="Exit")
 #
-#main_menu.add_cascade(label="File", menu=file_menu)
-#root.config(menu=main_menu)
+# main_menu.add_cascade(label="File", menu=file_menu)
+# root.config(menu=main_menu)
 #
 # # Create the chat area
-chatWindow = Text(root, bd=1, bg="yellow", width=50, height=8, font = "Corbel 11")
-chatWindow.place(x=6, y=6, height=385, width=475)
+chatWindow = Text(root, bd=1, bg="white", width=50, height=8, font="Corbel 11")
+chatWindow.place(x=6, y=6, height=390, width=1250)
 #
 # # Create the message window
-messageWindow = Text(root, bg="yellow", width=30, height=4, font = "Corbel 11")
-messageWindow.place(x=6, y=400, height=50, width=400)
+messageWindow = Text(root, bg="white", width=30, height=4, font="Corbel 11")
+messageWindow.place(x=6, y=400, height=50, width=1200)
 #
 
 #
 # # Add the scroll bar
 scrollbar = Scrollbar(root, command=chatWindow.yview())
-scrollbar.place(x=480, y=5, height=385)
+scrollbar.place(x=1260, y=5, height=385)
 #
-#root.mainloop()
+# root.mainloop()
 
 # Membuat kernel dan mempelajari berkas aiml
 kernel = aiml.Kernel()
@@ -80,6 +80,6 @@ def send():
 #send = Button(root, text="Send", bg="blue", fg="white", activebackground="lightblue", command=send).grid(row=1, column=1)
 # # Create the button to send the message
 send = Button(root, text="Send", fg="white", bg="blue", activebackground="lightblue", width=12, height=5, font=("Corbel", 12), command=send)
-send.place(x=415, y=400, height=50, width=60)
+send.place(x=1200, y=400, height=50, width=60)
 
 root.mainloop()

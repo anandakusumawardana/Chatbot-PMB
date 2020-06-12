@@ -66,4 +66,18 @@
                 7. Setiap pendaftar boleh memilih maksimal 2 program studi di UKDW, dengan pilihan pertama wajib Prodi Kedokteran.
             </template>
     </category>
+
+    <category>
+        <pattern>SYARAT MASUK KEDOKTERAN</pattern>
+            <template>
+                1. Saat ini duduk di kelas 12 SMA jurusan IPA atau lulusan SMA jurusan IPA (periode 3 tahun sebelumnya terhitung dari periode tahun akademik saat ini: 2018, 2019, 2020).
+                2. Isi Formulir Pendaftaran Penerimaan Mahasiswa Baru Universitas Kristen Duta Wacana (UKDW).
+                3. Fotokopi Rapor Kelas 10-12 yang dilegalisir oleh sekolah.
+                4. Fotokopi Ijazah/SKHUN.
+                5. Foto berwarna terbaru ukuran 3x4 sebanyak 1 lembar.
+                6. Fotokopi KTP orang tua.
+                7. Setiap pendaftar boleh memilih maksimal 2 program studi di UKDW, dengan pilihan pertama wajib Prodi Kedokteran.
+            </template>
+    </category>
+
 </aiml>
