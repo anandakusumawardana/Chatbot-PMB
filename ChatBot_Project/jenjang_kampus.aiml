@@ -1,6 +1,7 @@
 <?xml version = "1.0" encoding = "ISO-8859-1"?>
 <aiml version="2" encoding="ISO-8859-1">
     <!-- jenjang_kampus.aiml -->
+
         <category>
             <pattern>JENJANG PENDIDIKAN UKDW</pattern>
                 <template>
@@ -30,6 +31,7 @@
         </category>
 
         <!-- jenjang S1 -->
+
        <category>
             <pattern>FAKULTAS JENJANG S1</pattern>
                 <template>
@@ -67,6 +69,7 @@
 
 
         <!-- jenjang S2 -->
+
         <category>
             <pattern>FAKULTAS JENJANG S2</pattern>
                 <template>
@@ -104,6 +107,7 @@
 
 
         <!-- jenjang S3 -->
+        
         <category>
             <pattern>FAKULTAS JENJANG S3</pattern>
                 <template>

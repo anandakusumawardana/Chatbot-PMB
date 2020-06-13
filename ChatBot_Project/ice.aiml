@@ -3,6 +3,7 @@
     <!-- ice.aiml -->
 
         <!-- ABOUT ICE -->
+
         <category>
             <pattern>* ICE *</pattern>
                 <template>
@@ -61,6 +62,7 @@
 
 
         <!-- ICE PROCESS -->
+
         <category>
             <pattern>BAGAIMANA PROSES ICE</pattern>
                 <template>
@@ -122,6 +124,7 @@
         </category>
 
         <!-- ICE TEST -->
+
         <category>
             <pattern>KAPAN PENDAFTARAN ICE</pattern>
                 <template>
