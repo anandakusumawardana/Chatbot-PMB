@@ -25,12 +25,8 @@
                 <learn>waktu_pendaftaran_pengumuman_jpa.aiml</learn>
                 <learn>waktu_pendaftaran_pengumuman_jpm.aiml</learn>
                 <learn>tes_teologi.aiml</learn>
-                <learn>jenjang_s1.aiml</learn>
-                <learn>jenjang_s2.aiml</learn>
-                <learn>jenjang_s3.aiml</learn>
-                <learn>about_ice.aiml</learn>
-                <learn>proses_ice.aiml</learn>
-                <learn>tes_ice.aiml</learn>
+                <learn>jenjang_kampus.aiml</learn>
+                <learn>ice.aiml</learn>
                 <learn>daftar_fakultas.aiml</learn>
                 <learn>gelombang_pendaftaran.aiml</learn>
             </template>

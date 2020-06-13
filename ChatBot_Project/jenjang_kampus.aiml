@@ -1,0 +1,142 @@
+<?xml version = "1.0" encoding = "ISO-8859-1"?>
+<aiml version="2" encoding="ISO-8859-1">
+    <!-- jenjang_kampus.aiml -->
+        <category>
+            <pattern>JENJANG PENDIDIKAN UKDW</pattern>
+                <template>
+                    UKDW menyediakan 3 jenjang pendidikan yaitu S1, S2, dan S3.
+                </template>
+        </category>
+
+        <category>
+            <pattern>JENJANG PENDIDIKAN *</pattern>
+                <template>
+                    UKDW menyediakan 3 jenjang pendidikan yaitu S1, S2, dan S3.
+                </template>
+        </category>
+
+        <category>
+            <pattern>ADA BERAPA JENJANG PENDIDIKAN *</pattern>
+                <template>
+                    UKDW menyediakan 3 jenjang pendidikan yaitu S1, S2, dan S3.
+                </template>
+        </category>
+
+        <category>
+            <pattern>* JENJANG PENDIDIKAN *</pattern>
+                <template>
+                    UKDW menyediakan 3 jenjang pendidikan yaitu S1, S2, dan S3.
+                </template>
+        </category>
+
+        <!-- jenjang S1 -->
+       <category>
+            <pattern>FAKULTAS JENJANG S1</pattern>
+                <template>
+                    Penerimaan mahasiswa baru pada jenjang S1 di UKDW yaitu Fakultas Teologi, Teknologi Informasi, Arsitektur dan Desain, Bisnis, Bioteknologi, Kedokteran, dan Pendidikan Bahasa Inggris (PBI).
+                </template>
+        </category>
+
+        <category>
+            <pattern>FAKULTAS PADA JENJANG S1</pattern>
+                <template>
+                    Penerimaan mahasiswa baru pada jenjang S1 di UKDW yaitu Fakultas Teologi, Teknologi Informasi, Arsitektur dan Desain, Bisnis, Bioteknologi, Kedokteran, dan Pendidikan Bahasa Inggris (PBI).
+                </template>
+        </category>
+
+        <category>
+            <pattern>FAKULTAS JENJANG S1 *</pattern>
+                <template>
+                    Penerimaan mahasiswa baru pada jenjang S1 di UKDW yaitu Fakultas Teologi, Teknologi Informasi, Arsitektur dan Desain, Bisnis, Bioteknologi, Kedokteran, dan Pendidikan Bahasa Inggris (PBI).
+                </template>
+        </category>
+
+         <category>
+            <pattern>FAKULTAS YANG TERSEDIA PADA JENJANG S1</pattern>
+                <template>
+                    Penerimaan mahasiswa baru pada jenjang S1 di UKDW yaitu Fakultas Teologi, Teknologi Informasi, Arsitektur dan Desain, Bisnis, Bioteknologi, Kedokteran, dan Pendidikan Bahasa Inggris (PBI).
+                </template>
+        </category>
+
+        <category>
+            <pattern>* JENJANG S1 *</pattern>
+                <template>
+                    Penerimaan mahasiswa baru pada jenjang S1 di UKDW yaitu Fakultas Teologi, Teknologi Informasi, Arsitektur dan Desain, Bisnis, Bioteknologi, Kedokteran, dan Pendidikan Bahasa Inggris (PBI).
+                </template>
+        </category>
+
+
+        <!-- jenjang S2 -->
+        <category>
+            <pattern>FAKULTAS JENJANG S2</pattern>
+                <template>
+                    Penerimaan mahasiswa baru pada jenjang S2 di UKDW yaitu fakultas Teologi dan Manajemen (Magister Management).
+                </template>
+        </category>
+
+         <category>
+            <pattern>FAKULTAS PADA JENJANG S2</pattern>
+                <template>
+                    Penerimaan mahasiswa baru pada jenjang S2 di UKDW yaitu fakultas Teologi dan Manajemen (Magister Management).
+                </template>
+        </category>
+
+        <category>
+            <pattern>FAKULTAS PADA JENJANG S2 *</pattern>
+                <template>
+                    Penerimaan mahasiswa baru pada jenjang S2 di UKDW yaitu fakultas Teologi dan Manajemen (Magister Management).
+                </template>
+        </category>
+
+         <category>
+            <pattern>FAKULTAS YANG TERSEDIA PADA JENJANG S2</pattern>
+                <template>
+                    Penerimaan mahasiswa baru pada jenjang S2 di UKDW yaitu fakultas Teologi dan Manajemen (Magister Management).
+                </template>
+        </category>
+
+        <category>
+            <pattern>* JENJANG S2 *</pattern>
+                <template>
+                    Penerimaan mahasiswa baru pada jenjang S2 di UKDW yaitu fakultas Teologi dan Manajemen (Magister Management).
+                </template>
+        </category>
+
+
+        <!-- jenjang S3 -->
+        <category>
+            <pattern>FAKULTAS JENJANG S3</pattern>
+                <template>
+                    Penerimaan mahasiswa baru pada jenjang S3 di UKDW yaitu fakultas Teologi.
+                </template>
+        </category>
+
+        <category>
+            <pattern>FAKULTAS PADA JENJANG S3</pattern>
+                <template>
+                    Penerimaan mahasiswa baru pada jenjang S3 di UKDW yaitu fakultas Teologi.
+                </template>
+        </category>
+
+        <category>
+            <pattern>FAKULTAS PADA JENJANG S3 *</pattern>
+                <template>
+                    Penerimaan mahasiswa baru pada jenjang S3 di UKDW yaitu fakultas Teologi.
+                </template>
+        </category>
+
+         <category>
+            <pattern>FAKULTAS YANG TERSEDIA PADA JENJANG S3</pattern>
+                <template>
+                    Penerimaan mahasiswa baru pada jenjang S3 di UKDW yaitu fakultas Teologi.
+                </template>
+        </category>
+
+        <category>
+            <pattern>* JENJANG S3 *</pattern>
+                <template>
+                    Penerimaan mahasiswa baru pada jenjang S3 di UKDW yaitu fakultas Teologi.
+                </template>
+        </category>
+
+</aiml>
