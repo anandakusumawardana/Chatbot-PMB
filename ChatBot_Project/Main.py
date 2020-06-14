@@ -1,6 +1,7 @@
 # Bot PMB
 import os
 from tkinter import *
+from tkinter import filedialog
 
 import aiml
 
@@ -21,11 +22,12 @@ main_menu = Menu(root)
 # # Create the sub menu
 file_menu = Menu(root)
 file_menu.add_command(label="New")
-file_menu.add_command(label="Save As")
+file_menu.add_command(label="Save As", command="saveFile")
 file_menu.add_command(label="Exit")
 #
-# main_menu.add_cascade(label="File", menu=file_menu)
-# root.config(menu=main_menu)
+
+main_menu.add_cascade(label="File", menu=file_menu)
+root.config(menu=main_menu)
 #
 # # Create the chat area
 chatWindow = Text(root, bd=1, bg="white", width=50, height=8, font="Corbel 11")
@@ -53,33 +55,33 @@ else:
     kernel.bootstrap(learnFiles="pmb_ukdw.xml", commands="pmb")
     kernel.saveBrain("bot_brain.brn")
 
-#while True:
+chatWindow.insert(END, "Halo selamat datang di chatbot PMB UKDW (^_^) \nInformasi apa yang ingin kakak ketahui?")
 
-    #user_input = kernel.respond(input("USER > "))
-    #if user_input:
-        #print("Chatbot > ", user_input)
-    #else:
-        #print("PMB > Maaf kakak, saya masih belajar mohon dicoba pertanyaan lainnya")
 
-#txt = Text(root, font = "Corbel 11")
-#txt.grid(row=0,column=0, columnspan=2) 
-#e = Entry(root, width=100)
-#e.grid(row=1, column=0)
-chatWindow.insert(END, "Halo selamat datang di chatbot PMB UKDW   (^_^)\nInformasi apa yang ingin kakak ketahui?")
-
-def send():
-    send="USER > "+messageWindow.get(1.0,END)
-    user_input=kernel.respond(messageWindow.get(1.0,END))
-    chatWindow.insert(END, "\n"+send)
+# Function button send
+# noinspection PyShadowingNames
+def sendMessage():
+    send = "USER > " + messageWindow.get(1.0, END)
+    user_input = kernel.respond(messageWindow.get(1.0, END))
+    chatWindow.insert(END, "\n" + send)
     if user_input:
-        chatWindow.insert(END,"PMB > "+user_input)
+        chatWindow.insert(END, "PMB > " + user_input)
     else:
-        chatWindow.insert(END,"PMB > Maaf kakak, saya masih belajar mohon dicoba pertanyaan lainnya")
-    messageWindow.delete(1.0,END)
-    
-#send = Button(root, text="Send", bg="blue", fg="white", activebackground="lightblue", command=send).grid(row=1, column=1)
+        chatWindow.insert(END, "PMB > Maaf kakak, saya masih belajar mohon dicoba pertanyaan lainnya")
+    messageWindow.delete(1.0, END)
+
+
+def saveFile():
+    dir_name = filedialog.asksaveasfile()
+    os.chdir(dir_name)
+
+    curr_dir = os.getcwd()
+    print(curr_dir)
+
+
 # # Create the button to send the message
-send = Button(root, text="Send", fg="white", bg="blue", activebackground="lightblue", width=12, height=5, font=("Corbel", 12), command=send)
+send = Button(root, text="Send", fg="white", bg="blue", activebackground="lightblue", width=12, height=5,
+              font=("Corbel", 12), command=sendMessage)
 send.place(x=1200, y=400, height=50, width=60)
 
 root.mainloop()

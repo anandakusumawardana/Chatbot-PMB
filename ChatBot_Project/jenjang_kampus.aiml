@@ -32,6 +32,20 @@
 
         <!-- jenjang S1 -->
 
+        <category>
+            <pattern>JENJANG S1 DI UKDW</pattern>
+                <template>
+                    Penerimaan mahasiswa baru pada jenjang S1 di UKDW yaitu Fakultas Teologi, Teknologi Informasi, Arsitektur dan Desain, Bisnis, Bioteknologi, Kedokteran, dan Pendidikan Bahasa Inggris (PBI).
+                </template>
+        </category>
+
+        <category>
+            <pattern>DAFTAR FAKULTAS S1 *</pattern>
+                <template>
+                    Penerimaan mahasiswa baru pada jenjang S1 di UKDW yaitu Fakultas Teologi, Teknologi Informasi, Arsitektur dan Desain, Bisnis, Bioteknologi, Kedokteran, dan Pendidikan Bahasa Inggris (PBI).
+                </template>
+        </category>
+
        <category>
             <pattern>FAKULTAS JENJANG S1</pattern>
                 <template>

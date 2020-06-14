@@ -27,7 +27,6 @@
                 <learn>tes_teologi.aiml</learn>
                 <learn>jenjang_kampus.aiml</learn>
                 <learn>ice.aiml</learn>
-                <learn>daftar_fakultas.aiml</learn>
                 <learn>gelombang_pendaftaran.aiml</learn>
             </template>
     </category>

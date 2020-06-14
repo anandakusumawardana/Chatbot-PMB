@@ -3,15 +3,28 @@
     <!-- jenis_beasiswa.aiml -->
 
     <category>
-        <pattern>APA SAJA * BEASISWA</pattern>
+        <pattern>APA SAJA * BEASISWA *</pattern>
             <template>
-                1. Beasiswa alumni/saudara kandung: dengan potongan DPFP sebesar Rp 2.500.000,-
-                2. Beasiswa Sinode Gereja Pendukung UKDW: GKI Jateng, GKI Jabar, GKI Jatim, GKJ, GKJW, GKMI, GPIB, GKP, GITJ, GKSBS, GKPB, GKS: dengan potongan DPFP sebesar Rp 2.000.000,-
-                3. Beasiswa Non Sinode Gereja Pendukung UKDW: dengan potongan DPFP sebesar Rp 1.000.000,-
-                4. Beasiswa prestasi Juara 1-3/Olahraga: dengan potongan DPFP berdasarkan ketentuan berikut
-                4a. Tingkat Provinsi: Rp 2.000.000,-
-                4b. Tingkat Nasional: Rp 3.000.000,-
-                4c. Tingkat Internasional: Rp 4.000.000,-
+                1. Beasiswa alumni/saudara kandung: dengan potongan DPFP sebesar Rp 2.500.000,- <br/>
+                2. Beasiswa Sinode Gereja Pendukung UKDW: GKI Jateng, GKI Jabar, GKI Jatim, GKJ, GKJW, GKMI, GPIB, GKP, GITJ, GKSBS, GKPB, GKS: dengan potongan DPFP sebesar Rp 2.000.000,- <br/>
+                3. Beasiswa Non Sinode Gereja Pendukung UKDW: dengan potongan DPFP sebesar Rp 1.000.000,- <br/>
+                4. Beasiswa prestasi Juara 1-3/Olahraga: dengan potongan DPFP berdasarkan ketentuan berikut <br/>
+                4a. Tingkat Provinsi: Rp 2.000.000,- <br/>
+                4b. Tingkat Nasional: Rp 3.000.000,- <br/>
+                4c. Tingkat Internasional: Rp 4.000.000,- <br/>
+            </template>
+    </category>
+
+    <category>
+        <pattern>APA SAJA BEASISWA *</pattern>
+            <template>
+                1. Beasiswa alumni/saudara kandung: dengan potongan DPFP sebesar Rp 2.500.000,- <br/>
+                2. Beasiswa Sinode Gereja Pendukung UKDW: GKI Jateng, GKI Jabar, GKI Jatim, GKJ, GKJW, GKMI, GPIB, GKP, GITJ, GKSBS, GKPB, GKS: dengan potongan DPFP sebesar Rp 2.000.000,- <br/>
+                3. Beasiswa Non Sinode Gereja Pendukung UKDW: dengan potongan DPFP sebesar Rp 1.000.000,- <br/>
+                4. Beasiswa prestasi Juara 1-3/Olahraga: dengan potongan DPFP berdasarkan ketentuan berikut <br/>
+                4a. Tingkat Provinsi: Rp 2.000.000,- <br/>
+                4b. Tingkat Nasional: Rp 3.000.000,- <br/>
+                4c. Tingkat Internasional: Rp 4.000.000,- <br/>
             </template>
     </category>
 

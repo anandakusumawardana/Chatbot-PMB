@@ -31,6 +31,13 @@
     </category>
 
     <category>
+        <pattern>NOMOR YANG BISA DIHUBUNGI</pattern>
+            <template>
+                Telp dan Fax: 0274-550657
+            </template>
+    </category>
+
+    <category>
         <pattern>NOMOR YANG BISA DIHUBUNGI *</pattern>
             <template>
                 Telp dan Fax: 0274-550657
