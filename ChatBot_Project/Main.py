@@ -22,7 +22,7 @@ main_menu = Menu(root)
 # # Create the sub menu
 file_menu = Menu(root)
 file_menu.add_command(label="New")
-file_menu.add_command(label="Save As", command="saveFile")
+file_menu.add_command(label="Save As")
 file_menu.add_command(label="Exit")
 #
 

@@ -140,7 +140,7 @@
         </category>
 
         <category>
-            <pattern>TANGGAL * JPA * 1 *</pattern>
+            <pattern>TANGGAL * JPA * 1</pattern>
                 <template>
                    Waktu pendaftaran dan pengumuman hasil seleksi JPA:
                    Periode 1:
@@ -150,7 +150,7 @@
         </category>
 
         <category>
-            <pattern>TANGGAL * JPA * 2 *</pattern>
+            <pattern>TANGGAL * JPA * 2</pattern>
                 <template>
                    Waktu pendaftaran dan pengumuman hasil seleksi JPA:
                    Periode 2:
@@ -160,7 +160,7 @@
         </category>
 
         <category>
-            <pattern>TANGGAL * JPA * 3 *</pattern>
+            <pattern>TANGGAL * JPA * 3</pattern>
                 <template>
                    Waktu pendaftaran dan pengumuman hasil seleksi JPA:
                    Periode 3:
@@ -170,7 +170,7 @@
         </category>
 
         <category>
-            <pattern>TANGGAL * JPA * 4 *</pattern>
+            <pattern>TANGGAL * JPA * 4</pattern>
                 <template>
                    Waktu pendaftaran dan pengumuman hasil seleksi JPA:
                    Periode 4:
@@ -180,7 +180,57 @@
         </category>
 
         <category>
-            <pattern>KAPAN * JPA * 5 *</pattern>
+            <pattern>KAPAN * JPA * 5</pattern>
+                <template>
+                   Waktu pendaftaran dan pengumuman hasil seleksi JPA:
+                   Periode 5:
+                   a. Tanggal pendaftaran    : 2 Juni s.d 8 Agustus 2020
+                   b. Pengumuman             : 4 Juli dan 15 Agustus 2020
+                </template>
+        </category>
+
+        <category>
+            <pattern>TANGGAL * JPA * 1</pattern>
+                <template>
+                   Waktu pendaftaran dan pengumuman hasil seleksi JPA:
+                   Periode 1:
+                   a. Tanggal pendaftaran    : 2 September s.d 31 Oktober 2019
+                   b. Pengumuman             : 5 Oktober dan 9 November 2019
+                </template>
+        </category>
+
+        <category>
+            <pattern>TANGGAL * JPA * 2</pattern>
+                <template>
+                   Waktu pendaftaran dan pengumuman hasil seleksi JPA:
+                   Periode 2:
+                   a. Tanggal pendaftaran    : 4 November 2019 s.d 31 Januari 2020
+                   b. Pengumuman             : 7 Desember 2019 dan 8 Februari 2020
+                </template>
+        </category>
+
+        <category>
+            <pattern>TANGGAL * JPA * 3</pattern>
+                <template>
+                   Waktu pendaftaran dan pengumuman hasil seleksi JPA:
+                   Periode 3:
+                   a. Tanggal pendaftaran    : 3 Februari s.d 31 Maret 2020
+                   b. Pengumuman             : 7 Maret dan 18 April 2020
+                </template>
+        </category>
+
+        <category>
+            <pattern>TANGGAL * JPA * 4</pattern>
+                <template>
+                   Waktu pendaftaran dan pengumuman hasil seleksi JPA:
+                   Periode 4:
+                   a. Tanggal pendaftaran    : 6 April s.d 5 Juni 2020
+                   b. Pengumuman             : 9 Mei dan 13 Juni 2020
+                </template>
+        </category>
+
+        <category>
+            <pattern>KAPAN * JPA * 5</pattern>
                 <template>
                    Waktu pendaftaran dan pengumuman hasil seleksi JPA:
                    Periode 5:

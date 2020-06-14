@@ -25,6 +25,13 @@
                 </template>
         </category>
 
+         <category>
+            <pattern>* APA ITU ICE</pattern>
+                <template>
+                    ICE merupakan program pelatihan yang mengasah ketrampilan berbahasa Inggris dalam berbicara, membaca dan menulis. ICE terdiri dari 3 level (Level 1, Level 2, Level 3) dimana level tersebut didapatkan dari hasil tes ICE pertama kali di  UKDW. ICE wajib diikuti oleh seluruh mahasiswa UKDW.
+                </template>
+        </category>
+
         <category>
             <pattern>PENGERTIAN ICE</pattern>
                 <template>
